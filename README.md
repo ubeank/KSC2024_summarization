@@ -1,6 +1,6 @@
 # KSC2024_summarization
 
-|model|exact-match|LM-based|LLM-based(GEval)|||
+|model|exact-match|LM-based|LLM-based(GEval)||
 |--------|---|---|---------|
 |      |ROUGE|BERTScore|Faithfulness|Completeness|Conciseness|
 |led-base-16k(baseline)|||||

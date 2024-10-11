@@ -1,6 +1,6 @@
 # KSC2024_summarization
 
-| Model                           | ROUGE | BERTScore | LLM-based (GEval)                             |
+| Model                           | ROUGE | BERTScore | LLM-based (GEval)                             ||
 |----------------------------------|-------|-----------|-----------------------------------------------|
 |                                  |       |           | Faithfulness | Completeness | Conciseness |
 | led-base-16k (baseline)          |       |           |             |              |             |

@@ -1,8 +1,8 @@
 # KSC2024_summarization
 
-| Model                           | ROUGE | BERTScore | LLM-based (GEval)|LLM-based (GEval)|LLM-based (GEval)|
+| Model                           | exact-match | LM-based | LLM-based (GEval)| LLM-based (GEval)| LLM-based (GEval) |
 |----------------------------------|-------|-----------|-------|-------|-------|
-|                                  |       |           | Faithfulness | Completeness | Conciseness |
+|                                  | ROUGE| BERTScore | Faithfulness | Completeness | Conciseness |
 | led-base-16k (baseline)          |       |           |             |              |             |
 | gpt-3.5 (1-shot)                 |       |           |             |              |             |
 | gpt-3.5 (lecture summarizer & 1-shot) |   |           |             |              |             |

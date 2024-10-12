@@ -20,7 +20,7 @@ def generate_summary(data):
     
     global_attention_mask[:, 0] = 1
     
-    predicted_summary_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask, min_length = 65, max_length = 1024)
+    predicted_summary_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask, max_length = 1024)
     data["generated_summary"] = tokenizer.batch_decode(predicted_summary_ids, skip_special_tokens=True)
     new_data = {
         'ReviewID' : data['ReviewID'],

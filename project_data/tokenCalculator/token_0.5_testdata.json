@@ -1,0 +1,1886 @@
+{
+    "ReviewID_TokenCounts": [
+        {
+            "ReviewID": "CD000024",
+            "TokenCount": 1281
+        },
+        {
+            "ReviewID": "CD000074",
+            "TokenCount": 123
+        },
+        {
+            "ReviewID": "CD000116",
+            "TokenCount": 955
+        },
+        {
+            "ReviewID": "CD000123",
+            "TokenCount": 2023
+        },
+        {
+            "ReviewID": "CD000143",
+            "TokenCount": 1666
+        },
+        {
+            "ReviewID": "CD000146",
+            "TokenCount": 19467
+        },
+        {
+            "ReviewID": "CD000168",
+            "TokenCount": 765
+        },
+        {
+            "ReviewID": "CD000220",
+            "TokenCount": 189
+        },
+        {
+            "ReviewID": "CD000238",
+            "TokenCount": 158
+        },
+        {
+            "ReviewID": "CD000246",
+            "TokenCount": 1614
+        },
+        {
+            "ReviewID": "CD000254",
+            "TokenCount": 1283
+        },
+        {
+            "ReviewID": "CD000255",
+            "TokenCount": 3724
+        },
+        {
+            "ReviewID": "CD000259",
+            "TokenCount": 18541
+        },
+        {
+            "ReviewID": "CD000297",
+            "TokenCount": 553
+        },
+        {
+            "ReviewID": "CD000305",
+            "TokenCount": 2534
+        },
+        {
+            "ReviewID": "CD000345",
+            "TokenCount": 2011
+        },
+        {
+            "ReviewID": "CD000369",
+            "TokenCount": 787
+        },
+        {
+            "ReviewID": "CD000405",
+            "TokenCount": 314
+        },
+        {
+            "ReviewID": "CD000409",
+            "TokenCount": 10701
+        },
+        {
+            "ReviewID": "CD000432",
+            "TokenCount": 365
+        },
+        {
+            "ReviewID": "CD000436",
+            "TokenCount": 1204
+        },
+        {
+            "ReviewID": "CD000460",
+            "TokenCount": 517
+        },
+        {
+            "ReviewID": "CD000479",
+            "TokenCount": 1128
+        },
+        {
+            "ReviewID": "CD000483",
+            "TokenCount": 501
+        },
+        {
+            "ReviewID": "CD000491",
+            "TokenCount": 1182
+        },
+        {
+            "ReviewID": "CD000525",
+            "TokenCount": 563
+        },
+        {
+            "ReviewID": "CD000536",
+            "TokenCount": 1701
+        },
+        {
+            "ReviewID": "CD000567",
+            "TokenCount": 12045
+        },
+        {
+            "ReviewID": "CD000934",
+            "TokenCount": 1219
+        },
+        {
+            "ReviewID": "CD000948",
+            "TokenCount": 157
+        },
+        {
+            "ReviewID": "CD000972",
+            "TokenCount": 294
+        },
+        {
+            "ReviewID": "CD000978",
+            "TokenCount": 19502
+        },
+        {
+            "ReviewID": "CD000980",
+            "TokenCount": 1964
+        },
+        {
+            "ReviewID": "CD000996",
+            "TokenCount": 709
+        },
+        {
+            "ReviewID": "CD001005",
+            "TokenCount": 1299
+        },
+        {
+            "ReviewID": "CD001018",
+            "TokenCount": 5399
+        },
+        {
+            "ReviewID": "CD001024",
+            "TokenCount": 1081
+        },
+        {
+            "ReviewID": "CD001036",
+            "TokenCount": 3922
+        },
+        {
+            "ReviewID": "CD001046",
+            "TokenCount": 1114
+        },
+        {
+            "ReviewID": "CD001055",
+            "TokenCount": 7438
+        },
+        {
+            "ReviewID": "CD001059",
+            "TokenCount": 1684
+        },
+        {
+            "ReviewID": "CD001062",
+            "TokenCount": 59
+        },
+        {
+            "ReviewID": "CD001066",
+            "TokenCount": 360
+        },
+        {
+            "ReviewID": "CD001069",
+            "TokenCount": 7896
+        },
+        {
+            "ReviewID": "CD001073",
+            "TokenCount": 136
+        },
+        {
+            "ReviewID": "CD001112",
+            "TokenCount": 717
+        },
+        {
+            "ReviewID": "CD001162",
+            "TokenCount": 1102
+        },
+        {
+            "ReviewID": "CD001168",
+            "TokenCount": 3932
+        },
+        {
+            "ReviewID": "CD001261",
+            "TokenCount": 1693
+        },
+        {
+            "ReviewID": "CD001266",
+            "TokenCount": 3545
+        },
+        {
+            "ReviewID": "CD001275",
+            "TokenCount": 240
+        },
+        {
+            "ReviewID": "CD001293",
+            "TokenCount": 13067
+        },
+        {
+            "ReviewID": "CD001297",
+            "TokenCount": 3062
+        },
+        {
+            "ReviewID": "CD001331",
+            "TokenCount": 535
+        },
+        {
+            "ReviewID": "CD001332",
+            "TokenCount": 2529
+        },
+        {
+            "ReviewID": "CD001340",
+            "TokenCount": 205
+        },
+        {
+            "ReviewID": "CD001342",
+            "TokenCount": 988
+        },
+        {
+            "ReviewID": "CD001351",
+            "TokenCount": 2444
+        },
+        {
+            "ReviewID": "CD001367",
+            "TokenCount": 1415
+        },
+        {
+            "ReviewID": "CD001418",
+            "TokenCount": 3838
+        },
+        {
+            "ReviewID": "CD001419",
+            "TokenCount": 1509
+        },
+        {
+            "ReviewID": "CD001431",
+            "TokenCount": 12712
+        },
+        {
+            "ReviewID": "CD001439",
+            "TokenCount": 3394
+        },
+        {
+            "ReviewID": "CD001487",
+            "TokenCount": 2204
+        },
+        {
+            "ReviewID": "CD001490",
+            "TokenCount": 919
+        },
+        {
+            "ReviewID": "CD001539",
+            "TokenCount": 1428
+        },
+        {
+            "ReviewID": "CD001543",
+            "TokenCount": 2036
+        },
+        {
+            "ReviewID": "CD001691",
+            "TokenCount": 713
+        },
+        {
+            "ReviewID": "CD001694",
+            "TokenCount": 901
+        },
+        {
+            "ReviewID": "CD001705",
+            "TokenCount": 271
+        },
+        {
+            "ReviewID": "CD001715",
+            "TokenCount": 312
+        },
+        {
+            "ReviewID": "CD001782",
+            "TokenCount": 4415
+        },
+        {
+            "ReviewID": "CD001815",
+            "TokenCount": 1397
+        },
+        {
+            "ReviewID": "CD001831",
+            "TokenCount": 2454
+        },
+        {
+            "ReviewID": "CD001874",
+            "TokenCount": 706
+        },
+        {
+            "ReviewID": "CD001878",
+            "TokenCount": 2346
+        },
+        {
+            "ReviewID": "CD001896",
+            "TokenCount": 1078
+        },
+        {
+            "ReviewID": "CD001900",
+            "TokenCount": 183
+        },
+        {
+            "ReviewID": "CD001939",
+            "TokenCount": 852
+        },
+        {
+            "ReviewID": "CD001943",
+            "TokenCount": 1212
+        },
+        {
+            "ReviewID": "CD001946",
+            "TokenCount": 128
+        },
+        {
+            "ReviewID": "CD001983",
+            "TokenCount": 979
+        },
+        {
+            "ReviewID": "CD001984",
+            "TokenCount": 952
+        },
+        {
+            "ReviewID": "CD001998",
+            "TokenCount": 434
+        },
+        {
+            "ReviewID": "CD002008",
+            "TokenCount": 6349
+        },
+        {
+            "ReviewID": "CD002009",
+            "TokenCount": 758
+        },
+        {
+            "ReviewID": "CD002037",
+            "TokenCount": 909
+        },
+        {
+            "ReviewID": "CD002047",
+            "TokenCount": 4497
+        },
+        {
+            "ReviewID": "CD002053",
+            "TokenCount": 702
+        },
+        {
+            "ReviewID": "CD002055",
+            "TokenCount": 966
+        },
+        {
+            "ReviewID": "CD002068",
+            "TokenCount": 4637
+        },
+        {
+            "ReviewID": "CD002073",
+            "TokenCount": 212
+        },
+        {
+            "ReviewID": "CD002085",
+            "TokenCount": 242
+        },
+        {
+            "ReviewID": "CD002095",
+            "TokenCount": 4889
+        },
+        {
+            "ReviewID": "CD002113",
+            "TokenCount": 847
+        },
+        {
+            "ReviewID": "CD002122",
+            "TokenCount": 1312
+        },
+        {
+            "ReviewID": "CD002139",
+            "TokenCount": 3862
+        },
+        {
+            "ReviewID": "CD002179",
+            "TokenCount": 337
+        },
+        {
+            "ReviewID": "CD002200",
+            "TokenCount": 1066
+        },
+        {
+            "ReviewID": "CD002208",
+            "TokenCount": 2041
+        },
+        {
+            "ReviewID": "CD002214",
+            "TokenCount": 729
+        },
+        {
+            "ReviewID": "CD002217",
+            "TokenCount": 861
+        },
+        {
+            "ReviewID": "CD002224",
+            "TokenCount": 167
+        },
+        {
+            "ReviewID": "CD002230",
+            "TokenCount": 2993
+        },
+        {
+            "ReviewID": "CD002231",
+            "TokenCount": 155
+        },
+        {
+            "ReviewID": "CD002246",
+            "TokenCount": 2877
+        },
+        {
+            "ReviewID": "CD002255",
+            "TokenCount": 1490
+        },
+        {
+            "ReviewID": "CD002265",
+            "TokenCount": 140
+        },
+        {
+            "ReviewID": "CD002271",
+            "TokenCount": 757
+        },
+        {
+            "ReviewID": "CD002277",
+            "TokenCount": 813
+        },
+        {
+            "ReviewID": "CD002280",
+            "TokenCount": 943
+        },
+        {
+            "ReviewID": "CD002282",
+            "TokenCount": 421
+        },
+        {
+            "ReviewID": "CD002752",
+            "TokenCount": 3942
+        },
+        {
+            "ReviewID": "CD002760",
+            "TokenCount": 348
+        },
+        {
+            "ReviewID": "CD002781",
+            "TokenCount": 528
+        },
+        {
+            "ReviewID": "CD002783",
+            "TokenCount": 1476
+        },
+        {
+            "ReviewID": "CD002784",
+            "TokenCount": 527
+        },
+        {
+            "ReviewID": "CD002786",
+            "TokenCount": 923
+        },
+        {
+            "ReviewID": "CD002815",
+            "TokenCount": 260
+        },
+        {
+            "ReviewID": "CD002828",
+            "TokenCount": 520
+        },
+        {
+            "ReviewID": "CD002855",
+            "TokenCount": 9413
+        },
+        {
+            "ReviewID": "CD002869",
+            "TokenCount": 666
+        },
+        {
+            "ReviewID": "CD002873",
+            "TokenCount": 936
+        },
+        {
+            "ReviewID": "CD002891",
+            "TokenCount": 1134
+        },
+        {
+            "ReviewID": "CD002892",
+            "TokenCount": 1395
+        },
+        {
+            "ReviewID": "CD002896",
+            "TokenCount": 137
+        },
+        {
+            "ReviewID": "CD002911",
+            "TokenCount": 2623
+        },
+        {
+            "ReviewID": "CD002959",
+            "TokenCount": 256
+        },
+        {
+            "ReviewID": "CD002962",
+            "TokenCount": 536
+        },
+        {
+            "ReviewID": "CD002964",
+            "TokenCount": 322
+        },
+        {
+            "ReviewID": "CD002968",
+            "TokenCount": 1800
+        },
+        {
+            "ReviewID": "CD002982",
+            "TokenCount": 1736
+        },
+        {
+            "ReviewID": "CD002987",
+            "TokenCount": 526
+        },
+        {
+            "ReviewID": "CD002988",
+            "TokenCount": 1298
+        },
+        {
+            "ReviewID": "CD002992",
+            "TokenCount": 4045
+        },
+        {
+            "ReviewID": "CD003005",
+            "TokenCount": 728
+        },
+        {
+            "ReviewID": "CD003009",
+            "TokenCount": 608
+        },
+        {
+            "ReviewID": "CD003026",
+            "TokenCount": 179
+        },
+        {
+            "ReviewID": "CD003032",
+            "TokenCount": 355
+        },
+        {
+            "ReviewID": "CD003034",
+            "TokenCount": 738
+        },
+        {
+            "ReviewID": "CD003038",
+            "TokenCount": 7674
+        },
+        {
+            "ReviewID": "CD003042",
+            "TokenCount": 209
+        },
+        {
+            "ReviewID": "CD003051",
+            "TokenCount": 2405
+        },
+        {
+            "ReviewID": "CD003054",
+            "TokenCount": 1656
+        },
+        {
+            "ReviewID": "CD003071",
+            "TokenCount": 2201
+        },
+        {
+            "ReviewID": "CD003075",
+            "TokenCount": 735
+        },
+        {
+            "ReviewID": "CD003082",
+            "TokenCount": 1998
+        },
+        {
+            "ReviewID": "CD003096",
+            "TokenCount": 216
+        },
+        {
+            "ReviewID": "CD003120",
+            "TokenCount": 2244
+        },
+        {
+            "ReviewID": "CD003122",
+            "TokenCount": 3135
+        },
+        {
+            "ReviewID": "CD003123",
+            "TokenCount": 1963
+        },
+        {
+            "ReviewID": "CD003139",
+            "TokenCount": 1540
+        },
+        {
+            "ReviewID": "CD003147",
+            "TokenCount": 2362
+        },
+        {
+            "ReviewID": "CD003159",
+            "TokenCount": 888
+        },
+        {
+            "ReviewID": "CD003200",
+            "TokenCount": 508
+        },
+        {
+            "ReviewID": "CD003212",
+            "TokenCount": 637
+        },
+        {
+            "ReviewID": "CD003219",
+            "TokenCount": 2105
+        },
+        {
+            "ReviewID": "CD003225",
+            "TokenCount": 4407
+        },
+        {
+            "ReviewID": "CD003231",
+            "TokenCount": 367
+        },
+        {
+            "ReviewID": "CD003243",
+            "TokenCount": 488
+        },
+        {
+            "ReviewID": "CD003260",
+            "TokenCount": 1140
+        },
+        {
+            "ReviewID": "CD003264",
+            "TokenCount": 1855
+        },
+        {
+            "ReviewID": "CD003266",
+            "TokenCount": 1694
+        },
+        {
+            "ReviewID": "CD003275",
+            "TokenCount": 97
+        },
+        {
+            "ReviewID": "CD003341",
+            "TokenCount": 754
+        },
+        {
+            "ReviewID": "CD003351",
+            "TokenCount": 171
+        },
+        {
+            "ReviewID": "CD003385",
+            "TokenCount": 905
+        },
+        {
+            "ReviewID": "CD003412",
+            "TokenCount": 3169
+        },
+        {
+            "ReviewID": "CD003420",
+            "TokenCount": 4775
+        },
+        {
+            "ReviewID": "CD003421",
+            "TokenCount": 1009
+        },
+        {
+            "ReviewID": "CD003422",
+            "TokenCount": 439
+        },
+        {
+            "ReviewID": "CD003427",
+            "TokenCount": 483
+        },
+        {
+            "ReviewID": "CD003458",
+            "TokenCount": 1041
+        },
+        {
+            "ReviewID": "CD003467",
+            "TokenCount": 394
+        },
+        {
+            "ReviewID": "CD003472",
+            "TokenCount": 969
+        },
+        {
+            "ReviewID": "CD003541",
+            "TokenCount": 678
+        },
+        {
+            "ReviewID": "CD003543",
+            "TokenCount": 12893
+        },
+        {
+            "ReviewID": "CD003581",
+            "TokenCount": 153
+        },
+        {
+            "ReviewID": "CD003594",
+            "TokenCount": 2137
+        },
+        {
+            "ReviewID": "CD003633",
+            "TokenCount": 877
+        },
+        {
+            "ReviewID": "CD003654",
+            "TokenCount": 3900
+        },
+        {
+            "ReviewID": "CD003659",
+            "TokenCount": 169
+        },
+        {
+            "ReviewID": "CD003668",
+            "TokenCount": 1119
+        },
+        {
+            "ReviewID": "CD003673",
+            "TokenCount": 55
+        },
+        {
+            "ReviewID": "CD003687",
+            "TokenCount": 63
+        },
+        {
+            "ReviewID": "CD003700",
+            "TokenCount": 389
+        },
+        {
+            "ReviewID": "CD003709",
+            "TokenCount": 3877
+        },
+        {
+            "ReviewID": "CD003713",
+            "TokenCount": 373
+        },
+        {
+            "ReviewID": "CD003764",
+            "TokenCount": 394
+        },
+        {
+            "ReviewID": "CD003770",
+            "TokenCount": 907
+        },
+        {
+            "ReviewID": "CD003772",
+            "TokenCount": 3179
+        },
+        {
+            "ReviewID": "CD003774",
+            "TokenCount": 6634
+        },
+        {
+            "ReviewID": "CD003782",
+            "TokenCount": 392
+        },
+        {
+            "ReviewID": "CD003794",
+            "TokenCount": 1719
+        },
+        {
+            "ReviewID": "CD003804",
+            "TokenCount": 453
+        },
+        {
+            "ReviewID": "CD003812",
+            "TokenCount": 706
+        },
+        {
+            "ReviewID": "CD003838",
+            "TokenCount": 1231
+        },
+        {
+            "ReviewID": "CD003852",
+            "TokenCount": 275
+        },
+        {
+            "ReviewID": "CD003863",
+            "TokenCount": 238
+        },
+        {
+            "ReviewID": "CD003881",
+            "TokenCount": 916
+        },
+        {
+            "ReviewID": "CD003893",
+            "TokenCount": 896
+        },
+        {
+            "ReviewID": "CD003913",
+            "TokenCount": 1371
+        },
+        {
+            "ReviewID": "CD003916",
+            "TokenCount": 1096
+        },
+        {
+            "ReviewID": "CD003917",
+            "TokenCount": 2705
+        },
+        {
+            "ReviewID": "CD003937",
+            "TokenCount": 779
+        },
+        {
+            "ReviewID": "CD003940",
+            "TokenCount": 5410
+        },
+        {
+            "ReviewID": "CD003948",
+            "TokenCount": 236
+        },
+        {
+            "ReviewID": "CD003954",
+            "TokenCount": 32
+        },
+        {
+            "ReviewID": "CD003978",
+            "TokenCount": 2559
+        },
+        {
+            "ReviewID": "CD004020",
+            "TokenCount": 1154
+        },
+        {
+            "ReviewID": "CD004074",
+            "TokenCount": 1065
+        },
+        {
+            "ReviewID": "CD004081",
+            "TokenCount": 2032
+        },
+        {
+            "ReviewID": "CD004115",
+            "TokenCount": 5149
+        },
+        {
+            "ReviewID": "CD004127",
+            "TokenCount": 1174
+        },
+        {
+            "ReviewID": "CD004128",
+            "TokenCount": 510
+        },
+        {
+            "ReviewID": "CD004136",
+            "TokenCount": 4941
+        },
+        {
+            "ReviewID": "CD004170",
+            "TokenCount": 2114
+        },
+        {
+            "ReviewID": "CD004181",
+            "TokenCount": 911
+        },
+        {
+            "ReviewID": "CD004185",
+            "TokenCount": 13375
+        },
+        {
+            "ReviewID": "CD004194",
+            "TokenCount": 6904
+        },
+        {
+            "ReviewID": "CD004198",
+            "TokenCount": 38
+        },
+        {
+            "ReviewID": "CD004207",
+            "TokenCount": 598
+        },
+        {
+            "ReviewID": "CD004214",
+            "TokenCount": 375
+        },
+        {
+            "ReviewID": "CD004217",
+            "TokenCount": 4780
+        },
+        {
+            "ReviewID": "CD004219",
+            "TokenCount": 489
+        },
+        {
+            "ReviewID": "CD004277",
+            "TokenCount": 310
+        },
+        {
+            "ReviewID": "CD004317",
+            "TokenCount": 760
+        },
+        {
+            "ReviewID": "CD004362",
+            "TokenCount": 1521
+        },
+        {
+            "ReviewID": "CD004366",
+            "TokenCount": 2233
+        },
+        {
+            "ReviewID": "CD004376",
+            "TokenCount": 5535
+        },
+        {
+            "ReviewID": "CD004381",
+            "TokenCount": 162
+        },
+        {
+            "ReviewID": "CD004409",
+            "TokenCount": 79
+        },
+        {
+            "ReviewID": "CD004425",
+            "TokenCount": 4840
+        },
+        {
+            "ReviewID": "CD004447",
+            "TokenCount": 122
+        },
+        {
+            "ReviewID": "CD004481",
+            "TokenCount": 1416
+        },
+        {
+            "ReviewID": "CD004487",
+            "TokenCount": 3217
+        },
+        {
+            "ReviewID": "CD004495",
+            "TokenCount": 120
+        },
+        {
+            "ReviewID": "CD004504",
+            "TokenCount": 1472
+        },
+        {
+            "ReviewID": "CD004538",
+            "TokenCount": 585
+        },
+        {
+            "ReviewID": "CD004571",
+            "TokenCount": 394
+        },
+        {
+            "ReviewID": "CD004572",
+            "TokenCount": 3699
+        },
+        {
+            "ReviewID": "CD004585",
+            "TokenCount": 1170
+        },
+        {
+            "ReviewID": "CD004604",
+            "TokenCount": 5585
+        },
+        {
+            "ReviewID": "CD004611",
+            "TokenCount": 409
+        },
+        {
+            "ReviewID": "CD004668",
+            "TokenCount": 450
+        },
+        {
+            "ReviewID": "CD004678",
+            "TokenCount": 834
+        },
+        {
+            "ReviewID": "CD004685",
+            "TokenCount": 2434
+        },
+        {
+            "ReviewID": "CD004735",
+            "TokenCount": 908
+        },
+        {
+            "ReviewID": "CD004737",
+            "TokenCount": 1542
+        },
+        {
+            "ReviewID": "CD004740",
+            "TokenCount": 2953
+        },
+        {
+            "ReviewID": "CD004746",
+            "TokenCount": 513
+        },
+        {
+            "ReviewID": "CD004751",
+            "TokenCount": 1026
+        },
+        {
+            "ReviewID": "CD004787",
+            "TokenCount": 2291
+        },
+        {
+            "ReviewID": "CD004791",
+            "TokenCount": 1424
+        },
+        {
+            "ReviewID": "CD004829",
+            "TokenCount": 2707
+        },
+        {
+            "ReviewID": "CD004842",
+            "TokenCount": 562
+        },
+        {
+            "ReviewID": "CD004873",
+            "TokenCount": 631
+        },
+        {
+            "ReviewID": "CD004878",
+            "TokenCount": 2590
+        },
+        {
+            "ReviewID": "CD004884",
+            "TokenCount": 452
+        },
+        {
+            "ReviewID": "CD004888",
+            "TokenCount": 2836
+        },
+        {
+            "ReviewID": "CD004908",
+            "TokenCount": 1280
+        },
+        {
+            "ReviewID": "CD004918",
+            "TokenCount": 2726
+        },
+        {
+            "ReviewID": "CD004929",
+            "TokenCount": 4196
+        },
+        {
+            "ReviewID": "CD004943",
+            "TokenCount": 2356
+        },
+        {
+            "ReviewID": "CD004950",
+            "TokenCount": 2642
+        },
+        {
+            "ReviewID": "CD004957",
+            "TokenCount": 650
+        },
+        {
+            "ReviewID": "CD004979",
+            "TokenCount": 423
+        },
+        {
+            "ReviewID": "CD004998",
+            "TokenCount": 263
+        },
+        {
+            "ReviewID": "CD005006",
+            "TokenCount": 1401
+        },
+        {
+            "ReviewID": "CD005009",
+            "TokenCount": 374
+        },
+        {
+            "ReviewID": "CD005042",
+            "TokenCount": 293
+        },
+        {
+            "ReviewID": "CD005046",
+            "TokenCount": 1218
+        },
+        {
+            "ReviewID": "CD005059",
+            "TokenCount": 2499
+        },
+        {
+            "ReviewID": "CD005081",
+            "TokenCount": 30
+        },
+        {
+            "ReviewID": "CD005083",
+            "TokenCount": 2196
+        },
+        {
+            "ReviewID": "CD005087",
+            "TokenCount": 798
+        },
+        {
+            "ReviewID": "CD005102",
+            "TokenCount": 522
+        },
+        {
+            "ReviewID": "CD005129",
+            "TokenCount": 3813
+        },
+        {
+            "ReviewID": "CD005137",
+            "TokenCount": 1606
+        },
+        {
+            "ReviewID": "CD005181",
+            "TokenCount": 790
+        },
+        {
+            "ReviewID": "CD005190",
+            "TokenCount": 116
+        },
+        {
+            "ReviewID": "CD005203",
+            "TokenCount": 1056
+        },
+        {
+            "ReviewID": "CD005208",
+            "TokenCount": 424
+        },
+        {
+            "ReviewID": "CD005214",
+            "TokenCount": 135
+        },
+        {
+            "ReviewID": "CD005237",
+            "TokenCount": 1565
+        },
+        {
+            "ReviewID": "CD005251",
+            "TokenCount": 23
+        },
+        {
+            "ReviewID": "CD005262",
+            "TokenCount": 2670
+        },
+        {
+            "ReviewID": "CD005276",
+            "TokenCount": 1262
+        },
+        {
+            "ReviewID": "CD005331",
+            "TokenCount": 409
+        },
+        {
+            "ReviewID": "CD005365",
+            "TokenCount": 1832
+        },
+        {
+            "ReviewID": "CD005373",
+            "TokenCount": 148
+        },
+        {
+            "ReviewID": "CD005397",
+            "TokenCount": 3396
+        },
+        {
+            "ReviewID": "CD005413",
+            "TokenCount": 2286
+        },
+        {
+            "ReviewID": "CD005421",
+            "TokenCount": 537
+        },
+        {
+            "ReviewID": "CD005463",
+            "TokenCount": 425
+        },
+        {
+            "ReviewID": "CD005486",
+            "TokenCount": 555
+        },
+        {
+            "ReviewID": "CD005496",
+            "TokenCount": 2727
+        },
+        {
+            "ReviewID": "CD005506",
+            "TokenCount": 1408
+        },
+        {
+            "ReviewID": "CD005508",
+            "TokenCount": 588
+        },
+        {
+            "ReviewID": "CD005514",
+            "TokenCount": 708
+        },
+        {
+            "ReviewID": "CD005522",
+            "TokenCount": 1876
+        },
+        {
+            "ReviewID": "CD005523",
+            "TokenCount": 992
+        },
+        {
+            "ReviewID": "CD005538",
+            "TokenCount": 8302
+        },
+        {
+            "ReviewID": "CD005539",
+            "TokenCount": 531
+        },
+        {
+            "ReviewID": "CD005542",
+            "TokenCount": 304
+        },
+        {
+            "ReviewID": "CD005562",
+            "TokenCount": 1212
+        },
+        {
+            "ReviewID": "CD005568",
+            "TokenCount": 178
+        },
+        {
+            "ReviewID": "CD005582",
+            "TokenCount": 674
+        },
+        {
+            "ReviewID": "CD005609",
+            "TokenCount": 494
+        },
+        {
+            "ReviewID": "CD005616",
+            "TokenCount": 92
+        },
+        {
+            "ReviewID": "CD005646",
+            "TokenCount": 482
+        },
+        {
+            "ReviewID": "CD005944",
+            "TokenCount": 1818
+        },
+        {
+            "ReviewID": "CD005950",
+            "TokenCount": 768
+        },
+        {
+            "ReviewID": "CD005952",
+            "TokenCount": 529
+        },
+        {
+            "ReviewID": "CD005959",
+            "TokenCount": 617
+        },
+        {
+            "ReviewID": "CD006002",
+            "TokenCount": 877
+        },
+        {
+            "ReviewID": "CD006028",
+            "TokenCount": 3680
+        },
+        {
+            "ReviewID": "CD006033",
+            "TokenCount": 2949
+        },
+        {
+            "ReviewID": "CD006069",
+            "TokenCount": 748
+        },
+        {
+            "ReviewID": "CD006097",
+            "TokenCount": 646
+        },
+        {
+            "ReviewID": "CD006101",
+            "TokenCount": 635
+        },
+        {
+            "ReviewID": "CD006107",
+            "TokenCount": 1094
+        },
+        {
+            "ReviewID": "CD006122",
+            "TokenCount": 315
+        },
+        {
+            "ReviewID": "CD006133",
+            "TokenCount": 4874
+        },
+        {
+            "ReviewID": "CD006161",
+            "TokenCount": 1474
+        },
+        {
+            "ReviewID": "CD006168",
+            "TokenCount": 194
+        },
+        {
+            "ReviewID": "CD006170",
+            "TokenCount": 2338
+        },
+        {
+            "ReviewID": "CD006193",
+            "TokenCount": 819
+        },
+        {
+            "ReviewID": "CD006194",
+            "TokenCount": 1058
+        },
+        {
+            "ReviewID": "CD006197",
+            "TokenCount": 160
+        },
+        {
+            "ReviewID": "CD006229",
+            "TokenCount": 1758
+        },
+        {
+            "ReviewID": "CD006251",
+            "TokenCount": 880
+        },
+        {
+            "ReviewID": "CD006268",
+            "TokenCount": 2188
+        },
+        {
+            "ReviewID": "CD006283",
+            "TokenCount": 427
+        },
+        {
+            "ReviewID": "CD006309",
+            "TokenCount": 174
+        },
+        {
+            "ReviewID": "CD006332",
+            "TokenCount": 3546
+        },
+        {
+            "ReviewID": "CD006355",
+            "TokenCount": 447
+        },
+        {
+            "ReviewID": "CD006373",
+            "TokenCount": 592
+        },
+        {
+            "ReviewID": "CD006378",
+            "TokenCount": 1564
+        },
+        {
+            "ReviewID": "CD006385",
+            "TokenCount": 990
+        },
+        {
+            "ReviewID": "CD006386",
+            "TokenCount": 14470
+        },
+        {
+            "ReviewID": "CD006400",
+            "TokenCount": 1521
+        },
+        {
+            "ReviewID": "CD006403",
+            "TokenCount": 827
+        },
+        {
+            "ReviewID": "CD006432",
+            "TokenCount": 2541
+        },
+        {
+            "ReviewID": "CD006447",
+            "TokenCount": 2875
+        },
+        {
+            "ReviewID": "CD006455",
+            "TokenCount": 937
+        },
+        {
+            "ReviewID": "CD006469",
+            "TokenCount": 2914
+        },
+        {
+            "ReviewID": "CD006484",
+            "TokenCount": 1275
+        },
+        {
+            "ReviewID": "CD006505",
+            "TokenCount": 1060
+        },
+        {
+            "ReviewID": "CD006533",
+            "TokenCount": 3321
+        },
+        {
+            "ReviewID": "CD006616",
+            "TokenCount": 7456
+        },
+        {
+            "ReviewID": "CD006639",
+            "TokenCount": 1757
+        },
+        {
+            "ReviewID": "CD006655",
+            "TokenCount": 1632
+        },
+        {
+            "ReviewID": "CD006660",
+            "TokenCount": 977
+        },
+        {
+            "ReviewID": "CD006665",
+            "TokenCount": 141
+        },
+        {
+            "ReviewID": "CD006667",
+            "TokenCount": 1475
+        },
+        {
+            "ReviewID": "CD006715",
+            "TokenCount": 5495
+        },
+        {
+            "ReviewID": "CD006717",
+            "TokenCount": 567
+        },
+        {
+            "ReviewID": "CD006726",
+            "TokenCount": 1813
+        },
+        {
+            "ReviewID": "CD006728",
+            "TokenCount": 438
+        },
+        {
+            "ReviewID": "CD006734",
+            "TokenCount": 1642
+        },
+        {
+            "ReviewID": "CD006746",
+            "TokenCount": 231
+        },
+        {
+            "ReviewID": "CD006771",
+            "TokenCount": 2519
+        },
+        {
+            "ReviewID": "CD006772",
+            "TokenCount": 1655
+        },
+        {
+            "ReviewID": "CD006790",
+            "TokenCount": 668
+        },
+        {
+            "ReviewID": "CD006829",
+            "TokenCount": 3229
+        },
+        {
+            "ReviewID": "CD006853",
+            "TokenCount": 683
+        },
+        {
+            "ReviewID": "CD006866",
+            "TokenCount": 836
+        },
+        {
+            "ReviewID": "CD006883",
+            "TokenCount": 803
+        },
+        {
+            "ReviewID": "CD006904",
+            "TokenCount": 1643
+        },
+        {
+            "ReviewID": "CD006907",
+            "TokenCount": 314
+        },
+        {
+            "ReviewID": "CD006943",
+            "TokenCount": 107
+        },
+        {
+            "ReviewID": "CD006945",
+            "TokenCount": 930
+        },
+        {
+            "ReviewID": "CD006956",
+            "TokenCount": 705
+        },
+        {
+            "ReviewID": "CD006963",
+            "TokenCount": 332
+        },
+        {
+            "ReviewID": "CD006972",
+            "TokenCount": 202
+        },
+        {
+            "ReviewID": "CD007024",
+            "TokenCount": 813
+        },
+        {
+            "ReviewID": "CD007033",
+            "TokenCount": 1600
+        },
+        {
+            "ReviewID": "CD007066",
+            "TokenCount": 1572
+        },
+        {
+            "ReviewID": "CD007124",
+            "TokenCount": 1467
+        },
+        {
+            "ReviewID": "CD007166",
+            "TokenCount": 6310
+        },
+        {
+            "ReviewID": "CD007191",
+            "TokenCount": 1440
+        },
+        {
+            "ReviewID": "CD007214",
+            "TokenCount": 1574
+        },
+        {
+            "ReviewID": "CD007224",
+            "TokenCount": 15418
+        },
+        {
+            "ReviewID": "CD007289",
+            "TokenCount": 433
+        },
+        {
+            "ReviewID": "CD007293",
+            "TokenCount": 443
+        },
+        {
+            "ReviewID": "CD007294",
+            "TokenCount": 804
+        },
+        {
+            "ReviewID": "CD007298",
+            "TokenCount": 113
+        },
+        {
+            "ReviewID": "CD007345",
+            "TokenCount": 1381
+        },
+        {
+            "ReviewID": "CD007350",
+            "TokenCount": 179
+        },
+        {
+            "ReviewID": "CD007394",
+            "TokenCount": 6168
+        },
+        {
+            "ReviewID": "CD007404",
+            "TokenCount": 154
+        },
+        {
+            "ReviewID": "CD007414",
+            "TokenCount": 869
+        },
+        {
+            "ReviewID": "CD007428",
+            "TokenCount": 315
+        },
+        {
+            "ReviewID": "CD007474",
+            "TokenCount": 344
+        },
+        {
+            "ReviewID": "CD007480",
+            "TokenCount": 2721
+        },
+        {
+            "ReviewID": "CD007519",
+            "TokenCount": 850
+        },
+        {
+            "ReviewID": "CD007566",
+            "TokenCount": 6496
+        },
+        {
+            "ReviewID": "CD007579",
+            "TokenCount": 4435
+        },
+        {
+            "ReviewID": "CD007610",
+            "TokenCount": 760
+        },
+        {
+            "ReviewID": "CD007617",
+            "TokenCount": 1359
+        },
+        {
+            "ReviewID": "CD007668",
+            "TokenCount": 1241
+        },
+        {
+            "ReviewID": "CD007672",
+            "TokenCount": 6666
+        },
+        {
+            "ReviewID": "CD007693",
+            "TokenCount": 4075
+        },
+        {
+            "ReviewID": "CD007708",
+            "TokenCount": 97
+        },
+        {
+            "ReviewID": "CD007712",
+            "TokenCount": 453
+        },
+        {
+            "ReviewID": "CD007718",
+            "TokenCount": 2088
+        },
+        {
+            "ReviewID": "CD007771",
+            "TokenCount": 531
+        },
+        {
+            "ReviewID": "CD007806",
+            "TokenCount": 516
+        },
+        {
+            "ReviewID": "CD007872",
+            "TokenCount": 305
+        },
+        {
+            "ReviewID": "CD007887",
+            "TokenCount": 512
+        },
+        {
+            "ReviewID": "CD007926",
+            "TokenCount": 807
+        },
+        {
+            "ReviewID": "CD007979",
+            "TokenCount": 132
+        },
+        {
+            "ReviewID": "CD007986",
+            "TokenCount": 1980
+        },
+        {
+            "ReviewID": "CD008012",
+            "TokenCount": 2376
+        },
+        {
+            "ReviewID": "CD008107",
+            "TokenCount": 2299
+        },
+        {
+            "ReviewID": "CD008112",
+            "TokenCount": 2906
+        },
+        {
+            "ReviewID": "CD008120",
+            "TokenCount": 1113
+        },
+        {
+            "ReviewID": "CD008175",
+            "TokenCount": 2735
+        },
+        {
+            "ReviewID": "CD008186",
+            "TokenCount": 367
+        },
+        {
+            "ReviewID": "CD008203",
+            "TokenCount": 229
+        },
+        {
+            "ReviewID": "CD008216",
+            "TokenCount": 7475
+        },
+        {
+            "ReviewID": "CD008241",
+            "TokenCount": 1011
+        },
+        {
+            "ReviewID": "CD008253",
+            "TokenCount": 28
+        },
+        {
+            "ReviewID": "CD008288",
+            "TokenCount": 807
+        },
+        {
+            "ReviewID": "CD008302",
+            "TokenCount": 923
+        },
+        {
+            "ReviewID": "CD008351",
+            "TokenCount": 799
+        },
+        {
+            "ReviewID": "CD008361",
+            "TokenCount": 1045
+        },
+        {
+            "ReviewID": "CD008388",
+            "TokenCount": 1305
+        },
+        {
+            "ReviewID": "CD008391",
+            "TokenCount": 2037
+        },
+        {
+            "ReviewID": "CD008424",
+            "TokenCount": 163
+        },
+        {
+            "ReviewID": "CD008449",
+            "TokenCount": 1162
+        },
+        {
+            "ReviewID": "CD008454",
+            "TokenCount": 1739
+        },
+        {
+            "ReviewID": "CD008472",
+            "TokenCount": 614
+        },
+        {
+            "ReviewID": "CD008493",
+            "TokenCount": 1923
+        },
+        {
+            "ReviewID": "CD008510",
+            "TokenCount": 145
+        },
+        {
+            "ReviewID": "CD008586",
+            "TokenCount": 157
+        },
+        {
+            "ReviewID": "CD008591",
+            "TokenCount": 936
+        },
+        {
+            "ReviewID": "CD008607",
+            "TokenCount": 561
+        },
+        {
+            "ReviewID": "CD008643",
+            "TokenCount": 672
+        },
+        {
+            "ReviewID": "CD008765",
+            "TokenCount": 1732
+        },
+        {
+            "ReviewID": "CD008838",
+            "TokenCount": 1042
+        },
+        {
+            "ReviewID": "CD008862",
+            "TokenCount": 2720
+        },
+        {
+            "ReviewID": "CD008870",
+            "TokenCount": 2274
+        },
+        {
+            "ReviewID": "CD008871",
+            "TokenCount": 176
+        },
+        {
+            "ReviewID": "CD008890",
+            "TokenCount": 301
+        },
+        {
+            "ReviewID": "CD009072",
+            "TokenCount": 1529
+        },
+        {
+            "ReviewID": "CD009109",
+            "TokenCount": 239
+        },
+        {
+            "ReviewID": "CD009110",
+            "TokenCount": 499
+        },
+        {
+            "ReviewID": "CD009118",
+            "TokenCount": 2704
+        },
+        {
+            "ReviewID": "CD009153",
+            "TokenCount": 1222
+        },
+        {
+            "ReviewID": "CD009154",
+            "TokenCount": 6003
+        },
+        {
+            "ReviewID": "CD009190",
+            "TokenCount": 134
+        },
+        {
+            "ReviewID": "CD009192",
+            "TokenCount": 124
+        },
+        {
+            "ReviewID": "CD009202",
+            "TokenCount": 183
+        },
+        {
+            "ReviewID": "CD009274",
+            "TokenCount": 1499
+        },
+        {
+            "ReviewID": "CD009275",
+            "TokenCount": 1233
+        },
+        {
+            "ReviewID": "CD009308",
+            "TokenCount": 987
+        },
+        {
+            "ReviewID": "CD009379",
+            "TokenCount": 162
+        },
+        {
+            "ReviewID": "CD009404",
+            "TokenCount": 123
+        },
+        {
+            "ReviewID": "CD009415",
+            "TokenCount": 893
+        },
+        {
+            "ReviewID": "CD009461",
+            "TokenCount": 328
+        },
+        {
+            "ReviewID": "CD009593",
+            "TokenCount": 3095
+        },
+        {
+            "ReviewID": "CD009755",
+            "TokenCount": 753
+        },
+        {
+            "ReviewID": "CD009792",
+            "TokenCount": 88
+        },
+        {
+            "ReviewID": "CD010256",
+            "TokenCount": 859
+        },
+        {
+            "ReviewID": "CD010257",
+            "TokenCount": 1355
+        },
+        {
+            "ReviewID": "CD010292",
+            "TokenCount": 2159
+        },
+        {
+            "ReviewID": "CD010610",
+            "TokenCount": 3177
+        },
+        {
+            "ReviewID": "CD010611",
+            "TokenCount": 1784
+        }
+    ],
+    "AverageTokenCount": 1820.627659574468,
+    "MaxTokenCount": 19502
+}

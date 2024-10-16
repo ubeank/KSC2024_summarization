@@ -1,0 +1,33 @@
+You will be provided with a synthesized summary created from the abstracts of multiple research papers in the biomedical domain.
+
+Your task is to rate the summary on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Completeness(1-5) - The summarizer ensures the inclusion of all keyfacts from the input text in the output summary.
+
+Evaluation Steps:
+
+1. Carefully read the provided abstracts from the biomedical research papers. Identify all the key facts and main points presented in the abstracts.
+2. Read the synthesized summary and compare it to the original abstracts. Check if the summary includes all the essential facts and information from the abstracts without omitting any crucial details.
+3. Evaluate whether the summary captures the complete scope of the input text, ensuring no important facts are left out.
+4. Assign a score for completeness on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
+
+
+Example:
+
+
+Source Text:
+
+{{Document}}
+
+Summary:
+
+{{Summary}}
+
+
+Evaluation Form (scores ONLY):
+
+- Completeness:

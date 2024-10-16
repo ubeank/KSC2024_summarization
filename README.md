@@ -16,7 +16,7 @@
 
 |LLM-based (GEval)|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
-|led-base-16k (baseline)|  |  ||
-|led-base-16k (lecture summarizer & baseline)| | | |
-|gpt-4o-mini (1-shot)| | | |
-|gpt-4o-mini (lecture summarizer & 1-shot)| | | |
+|led-base-16k (baseline)| 2.161 | 1.413 | 3.066 |
+|led-base-16k (lecture summarizer & baseline)| 2.134 | 1.343 | 3.303 |
+|gpt-4o-mini (1-shot)| 4.660 | 4.542 | 4.243 |
+|gpt-4o-mini (lecture summarizer & 1-shot)| 4.601 | 4.488 | 4.141 |

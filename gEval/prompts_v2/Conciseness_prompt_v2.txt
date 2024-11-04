@@ -1,0 +1,33 @@
+You will be provided with a synthesized summary created from the abstracts of multiple research papers in the biomedical domain.
+
+Your task is to rate the summary on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Conciseness(1-5) - The summarizer refrains from incorporating information outside the keyfacts in the output, maintaining a succinct and focused summary.
+
+Evaluation Steps:
+
+1. Carefully read the provided abstracts from the biomedical research papers. Identify the key facts and essential points.
+2. Read the synthesized summary and assess whether it stays focused on these key facts without including unnecessary details or extraneous information.
+3. Evaluate the summary's conciseness by checking if it is clear and succinct, ensuring that it captures the necessary information in a compact form.
+4. Assign a score for conciseness on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
+
+
+Example:
+
+
+Source Text:
+
+{{Document}}
+
+Summary:
+
+{{Summary}}
+
+
+Evaluation Form (scores ONLY):
+
+- Conciseness:

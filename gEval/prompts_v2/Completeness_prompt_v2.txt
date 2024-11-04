@@ -1,0 +1,37 @@
+You will be provided with three inputs: the original abstracts (Source Text) from biomedical research papers, a synthesized summary (Summary), and a reference summary (Target Summary).
+
+Your task is to rate the completeness of the synthesized summary (Summary) in relation to the Target Summary.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Completeness(1-5) - The summarizer ensures the inclusion of all keyfacts from the input text in the output summary.
+
+Evaluation Steps:
+
+1. Carefully read the Source Text to understand the main points and key facts presented in the biomedical research papers.
+2. Review the Target Summary and identify the essential information and insights it contains, as this serves as the reference for evaluation.
+3. Compare the Summary to the Target Summary and determine if it includes all critical details found in the Target Summary, accurately capturing its scope and essential facts without omitting any significant information.
+4. Assign a score for completeness on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
+
+
+Example:
+
+
+Source Text:
+
+{{Document}}
+
+Target Summary:
+
+{{Target Summary}}
+
+Summary:
+
+{{Summary}}
+
+
+Evaluation Form (scores ONLY):
+
+- Completeness:

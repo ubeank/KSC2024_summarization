@@ -1,0 +1,35 @@
+You will be provided with three inputs: the original abstracts (Source Text) from biomedical research papers, a synthesized summary (Summary), and a reference summary (Target Summary).
+
+Your task is to rate the Faithfulness of the synthesized summary (Summary) in relation to the Target Summary.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Faithfulness (1-5) - The summarizer does not manipulate the information in the input text (i.e.,intrinsic) and add any information not directly inferable from the input text (i.e., extrinsic).
+
+Evaluation Steps:
+
+1. Carefully read the Source Text to identify the key information and main findings presented in the biomedical research papers.
+2. Review the Target Summary to understand the core information it captures, serving as a reference for accuracy.
+3. Compare the Summary with both the Source Text and Target Summary, ensuring the Summary faithfully represents the facts without adding external or inferred details that are not present in the Source Text. Check for any manipulation or distortion of information.
+4. Assign a score for faithfulness on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
+
+
+Example:
+
+Source Text:
+
+{{Document}}
+
+Target Summary:
+
+{{Target Summary}}
+
+Summary:
+
+{{Summary}}
+
+Evaluation Form (scores ONLY):
+
+- Faithfulness:

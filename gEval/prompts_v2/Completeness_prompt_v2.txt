@@ -10,9 +10,9 @@ Completeness(1-5) - The summarizer ensures the inclusion of all keyfacts from th
 
 Evaluation Steps:
 
-1. Carefully read the Source Text to understand the main points and key facts presented in the biomedical research papers.
-2. Review the Target Summary and identify the essential information and insights it contains, as this serves as the reference for evaluation.
-3. Compare the Summary to the Target Summary and determine if it includes all critical details found in the Target Summary, accurately capturing its scope and essential facts without omitting any significant information.
+1. Carefully read the provided abstracts from the biomedical research papers. Identify all the key facts and main points presented in the abstracts.
+2. Read the synthesized summary and compare it to both the original abstracts and the target summary. Check if the synthesized summary includes all the essential facts and information from the abstracts and aligns with the key points outlined in the target summary, ensuring no crucial details are omitted.
+3. Evaluate whether the synthesized summary captures the complete scope of the input text and the target summary, ensuring no important facts are left out and that it aligns closely with the target summary's coverage.
 4. Assign a score for completeness on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
 
 

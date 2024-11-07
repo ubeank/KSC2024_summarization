@@ -48,7 +48,8 @@ def generate_summarizer(abstracts):
         },
         {
             "role": "user",
-            "content": f"{abstracts}" #몇 문장으로(토큰 수 제시) 요약해서 결론을 만들어 달라고 제시
+            "content": f"{abstracts}" 
+            #몇 문장으로(토큰 수 제시) 요약해서 결론을 만들어 달라고 제시 ([Target summary 토큰  정보] 'AverageTokenCount': 84.58723404255319, 'MaxTokenCount': 475)
         },
         ]
     )

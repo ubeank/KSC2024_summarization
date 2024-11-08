@@ -24,7 +24,7 @@
 |gpt-4o-mini (lecture summarizer & 1-shot)| 4.601 | 4.488 | 4.141 |
 
 
-|GEval_V2|Faithfulness|Completeness|Conciseness|
+|summarization_V1 + GEval_V2|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
 |led-base-16k (baseline)| 2.287 | 1.961 | 2.488 |
 |led-base-16k (lecture summarizer & baseline)| 2.201 | 1.851 | 2.390 |

@@ -1,6 +1,10 @@
 # KSC2024_summarization
+exact-match : ROUGE1, 2, L
+LM-based : BERTScore(F1)
+LLM-based (GEval) : Faithfulness, Completeness, Conciseness
 
-|exact-match|ROUGE1|ROUGE2|ROUGEL|
+
+|summarization_V1|ROUGE1|ROUGE2|ROUGEL|
 |--------|-----|-----|-----|
 |led-base-16k (baseline)| 0.247 | 0.064 | 0.179 |
 |led-base-16k (lecture summarizer & baseline)| 0.241 | 0.062 | 0.176 |
@@ -8,7 +12,17 @@
 |gpt-4o-mini (1-shot)| 0.187 | 0.034 | 0.107 |
 |gpt-4o-mini (lecture summarizer & 1-shot)| 0.203 | 0.034 | 0.114 |
 
-|LM-based|BERTScore(F1)|
+
+|summarization_V2|ROUGE1|ROUGE2|ROUGEL|
+|--------|-----|-----|-----|
+|led-base-16k (baseline)|  |  |  |
+|led-base-16k (lecture summarizer & baseline)|  |  |  |
+|SciSpace (lecture summarizer & Pegasus) |  |  |  |
+|gpt-4o-mini (1-shot)| 0.187 |  |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)|  |  |  |
+
+
+|summarization_V1|BERTScore(F1)|
 |--------|-----|
 |led-base-16k (baseline)| 0.872 |
 |led-base-16k (lecture summarizer & baseline)| 0.870 |
@@ -16,7 +30,17 @@
 |gpt-4o-mini (1-shot)| 0.835 | 
 |gpt-4o-mini (lecture summarizer & 1-shot)| 0.840 |
 
-|LLM-based (GEval)|Faithfulness|Completeness|Conciseness|
+
+|summarization_V2|BERTScore(F1)|
+|--------|-----|
+|led-base-16k (baseline)|  |
+|led-base-16k (lecture summarizer & baseline)|  |
+|SciSpace (lecture summarizer & Pegasus) |  |
+|gpt-4o-mini (1-shot)|  | 
+|gpt-4o-mini (lecture summarizer & 1-shot)|  |
+
+
+|summarization_V1 + GEval_V1|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
 |led-base-16k (baseline)| 2.161 | 1.413 | 3.066 |
 |led-base-16k (lecture summarizer & baseline)| 2.134 | 1.343 | 3.303 |
@@ -30,3 +54,11 @@
 |led-base-16k (lecture summarizer & baseline)| 2.201 | 1.851 | 2.390 |
 |gpt-4o-mini (1-shot)| 3.838 | 3.999 | 3.475 |
 |gpt-4o-mini (lecture summarizer & 1-shot)| 3.647 | 3.783 | 3.073 |
+
+
+|summarization_V2 + GEval_V2|Faithfulness|Completeness|Conciseness|
+|--------|-----|-----|-----|
+|led-base-16k (baseline)|  |  |  |
+|led-base-16k (lecture summarizer & baseline)|  |  |  |
+|gpt-4o-mini (1-shot)|  |  |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)|  |  |  |

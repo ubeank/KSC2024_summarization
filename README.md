@@ -11,6 +11,8 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |SciSpace (lecture summarizer & Pegasus) | - | 0.262 | 0.057 | 0.197 |
 |gpt-4o-mini (1-shot)| summarization_V1 | 0.187 | 0.034 | 0.107 |
 |gpt-4o-mini (lecture summarizer & 1-shot)| summarization_V1 | 0.203 | 0.034 | 0.114 |
+|gpt-4o-mini (1-shot)| summarization_V2 |  |  |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)| summarization_V2 |  |  |  |
 
 
 |summarization_V2|ROUGE1|ROUGE2|ROUGEL|

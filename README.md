@@ -18,7 +18,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |led-base-16k (baseline)|  |  |  |
 |led-base-16k (lecture summarizer & baseline)|  |  |  |
 |SciSpace (lecture summarizer & Pegasus) |  |  |  |
-|gpt-4o-mini (1-shot)| 0.187 |  |  |
+|gpt-4o-mini (1-shot)|  |  |  |
 |gpt-4o-mini (lecture summarizer & 1-shot)|  |  |  |
 
 

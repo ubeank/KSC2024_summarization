@@ -5,7 +5,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 
 |exact-match| summarization-version | ROUGE1|ROUGE2|ROUGEL|
-|--------|-----|-----|-----|-----|
+|--------|----|-----|-----|-----|
 |led-base-16k (baseline)| | 0.247 | 0.064 | 0.179 |
 |led-base-16k (lecture summarizer & baseline)| | 0.241 | 0.062 | 0.176 |
 |SciSpace (lecture summarizer & Pegasus) | | 0.262 | 0.057 | 0.197 |

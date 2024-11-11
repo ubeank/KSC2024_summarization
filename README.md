@@ -1,7 +1,7 @@
 # KSC2024_summarization
-exact-match : ROUGE1, 2, L 
-LM-based : BERTScore(F1) 
-LLM-based (GEval) : Faithfulness, Completeness, Conciseness 
+exact-match : ROUGE1, 2, L <br/>
+LM-based : BERTScore(F1) <br/>
+LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 
 |summarization_V1|ROUGE1|ROUGE2|ROUGEL|

@@ -33,8 +33,7 @@ def generate_summarizer(abstracts):
     messages=[
         {
             "role": "system",
-            "content": "You are a helpful assistant for multidocument abstractive summarization. Each document is separated by <s> and </s> tokens. Step 1: Summarize the provided documents in a detailed yet concise manner, ensuring the summary captures the key points of each document. Step 2: From the summary in Step 1, extract a clear and actionable conclusion that would be useful for a doctor, focusing on treatment outcomes, potential effects on patient conditions, and any recommendations for improving treatment efficacy or outcomes."
-            #"content": "You are a helpful assistant for multidocument abstractive summarization. Each documents are separated by <s> and </s> tokens. Summarize this for a doctor."
+            "content": "You are an expert assistant for generating clinical conclusions from multiple biomedical studies. Each document is separated by <s> and </s> tokens. Produce a concise and well-supported conclusion directly. Clearly state the level of evidence supporting treatment effectiveness, summarize effects observed across relevant patient groups, and include any specific recommendations or areas where further research is needed. Make the conclusion practical for clinical decision-making, emphasizing key findings, consensus or variability in treatment outcomes, and considerations for future study design to improve clinical outcomes."
         },
         {
             "role": "system",
@@ -50,7 +49,6 @@ def generate_summarizer(abstracts):
         {
             "role": "user",
             "content": f"Summarize the abstracts to be similar in length to the target summaries, approximately 85 words : {abstracts}" 
-            #몇 문장으로(토큰 수 제시) 요약해서 결론을 만들어 달라고 제시 ([Target summary 토큰  정보] 'AverageTokenCount': 84.58723404255319, 'MaxTokenCount': 475)
         },
         ]
     )

@@ -9,6 +9,7 @@ def generate_summarizer(abstracts):
     completion = client.chat.completions.create(
     model="gpt-4o-mini",
     max_tokens=1024,
+    # Summarization_Prompt_V1
     # messages=[
     #     {
     #         "role": "system",
@@ -30,6 +31,8 @@ def generate_summarizer(abstracts):
     #         "content": f"Summarize this for a doctor: {abstracts}"
     #     },
     #     ]
+
+    # Summarization_Prompt_V2
     messages=[
         {
             "role": "system",

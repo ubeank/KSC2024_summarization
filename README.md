@@ -4,8 +4,8 @@ LM-based : BERTScore(F1) <br/>
 LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 
-|exact-match| summarization-version | ROUGE1|ROUGE2|ROUGEL|
-|--------|----|-----|-----|-----|
+|exact-match|summarization-version|ROUGE1|ROUGE2|ROUGEL|
+|--------|-----|-----|-----|-----|
 |led-base-16k (baseline)| - | 0.247 | 0.064 | 0.179 |
 |led-base-16k (lecture summarizer & baseline)| - | 0.241 | 0.062 | 0.176 |
 |SciSpace (lecture summarizer & Pegasus) | - | 0.262 | 0.057 | 0.197 |
@@ -15,25 +15,15 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (lecture summarizer & 1-shot)| summarization_V2 |  |  |  |
 
 
-|summarization_V2|ROUGE1|ROUGE2|ROUGEL|
-|--------|-----|-----|-----|
-|gpt-4o-mini (1-shot)|  |  |  |
-|gpt-4o-mini (lecture summarizer & 1-shot)|  |  |  |
-
-
-|summarization_V1|BERTScore(F1)|
-|--------|-----|
-|led-base-16k (baseline)| 0.872 |
-|led-base-16k (lecture summarizer & baseline)| 0.870 |
-|SciSpace (lecture summarizer & Pegasus) | 0.859 |
-|gpt-4o-mini (1-shot)| 0.835 | 
-|gpt-4o-mini (lecture summarizer & 1-shot)| 0.840 |
-
-
-|summarization_V2|BERTScore(F1)|
-|--------|-----|
-|gpt-4o-mini (1-shot)|  | 
-|gpt-4o-mini (lecture summarizer & 1-shot)|  |
+|LM-based|summarization-version|BERTScore(F1)|
+|--------|-----|-----|
+|led-base-16k (baseline)| | 0.872 |
+|led-base-16k (lecture summarizer & baseline)| | 0.870 |
+|SciSpace (lecture summarizer & Pegasus) | | 0.859 |
+|gpt-4o-mini (1-shot)| | 0.835 | 
+|gpt-4o-mini (lecture summarizer & 1-shot)| | 0.840 |  
+|gpt-4o-mini (1-shot)|  |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)|  |  |
 
 
 |summarization_V1 + GEval_V1|Faithfulness|Completeness|Conciseness|

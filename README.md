@@ -17,9 +17,9 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 |LM-based|summarization-version|BERTScore(F1)|
 |--------|-----|-----|
-|led-base-16k (baseline)| | 0.872 |
-|led-base-16k (lecture summarizer & baseline)| | 0.870 |
-|SciSpace (lecture summarizer & Pegasus) | | 0.859 |
+|led-base-16k (baseline)| - | 0.872 |
+|led-base-16k (lecture summarizer & baseline)| - | 0.870 |
+|SciSpace (lecture summarizer & Pegasus) | - | 0.859 |
 |gpt-4o-mini (1-shot)| V1 | 0.835 | 
 |gpt-4o-mini (lecture summarizer & 1-shot)| V1 | 0.840 |  
 |gpt-4o-mini (1-shot)| V2 |  |

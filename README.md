@@ -15,9 +15,6 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 |summarization_V2|ROUGE1|ROUGE2|ROUGEL|
 |--------|-----|-----|-----|
-|led-base-16k (baseline)|  |  |  |
-|led-base-16k (lecture summarizer & baseline)|  |  |  |
-|SciSpace (lecture summarizer & Pegasus) |  |  |  |
 |gpt-4o-mini (1-shot)|  |  |  |
 |gpt-4o-mini (lecture summarizer & 1-shot)|  |  |  |
 
@@ -33,9 +30,6 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 |summarization_V2|BERTScore(F1)|
 |--------|-----|
-|led-base-16k (baseline)|  |
-|led-base-16k (lecture summarizer & baseline)|  |
-|SciSpace (lecture summarizer & Pegasus) |  |
 |gpt-4o-mini (1-shot)|  | 
 |gpt-4o-mini (lecture summarizer & 1-shot)|  |
 

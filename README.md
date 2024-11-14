@@ -12,7 +12,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (1-shot)| V1 | 0.187 | 0.034 | 0.107 |
 |gpt-4o-mini (lecture summarizer & 1-shot)| V1 | 0.203 | 0.034 | 0.114 |
 |gpt-4o-mini (1-shot)| V2 | 0.225 | 0.033 | 0.129 |
-|gpt-4o-mini (lecture summarizer & 1-shot)| V2 |  |  |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)| V2 | 0.22 | 0.031 | 0.128 |
 
 
 |LM-based|summarization-version|BERTScore(F1)|
@@ -23,7 +23,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (1-shot)| V1 | 0.835 | 
 |gpt-4o-mini (lecture summarizer & 1-shot)| V1 | 0.840 |  
 |gpt-4o-mini (1-shot)| V2 | 0.854 |
-|gpt-4o-mini (lecture summarizer & 1-shot)| V2 |  |
+|gpt-4o-mini (lecture summarizer & 1-shot)| V2 | 0.854 |
 
 
 |summarization_V1 + GEval_V1|Faithfulness|Completeness|Conciseness|

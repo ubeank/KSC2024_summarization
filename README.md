@@ -53,7 +53,18 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |Main error category|Sub error category|Description|
 |--------|-----|-----|
 |Faithfulness| Intrinsic Information | |
-|| Extrinsic Information | |
-|Completeness|  |  |
-|Conciseness| |  |
+|| Extrinsic Information | Information not present in the source text is added |
+|| Ambiguity | |
+|| Overgeneralization | |
+|| Inaccurate Emphasis | |
+|| Incorrect Implication | |
+|Completeness| Population Mismatch | When the group studied is different |
+|| Intervention Mismatch | When the treatment or method differs |
+|| Outcome Mismatch | When the results differ |
+|| Omission of Key Facts |  |
+|Conciseness| Redundancy |  |
+|| Length |  |
+|| Lack of Focus |  |
+|| Excessive detail |  |
+
 

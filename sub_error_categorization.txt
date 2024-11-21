@@ -1,0 +1,36 @@
+You will be provided with three inputs: the source text, the synthesized summary (Summary), and the reference summary (Target Summary).
+
+Your task is to categorize the potential errors in the synthesized summary (Summary) into three main categories: Faithfulness, Completeness, and Conciseness. Additionally, for each identified error, you will need to specify its corresponding sub error category to provide a more granular breakdown of the errors.
+
+Main error Categories:
+1. Faithfulness - The summarizer does not manipulate the information in the input text (i.e.,intrinsic) and add any information not directly inferable from the input text (i.e., extrinsic).
+2. Completeness - The summarizer ensures the inclusion of all keyfacts from the input text in the output summary. 
+3. Conciseness - The summarizer refrains from incorporating information outside the keyfacts in the output, maintaining a succinct and focused summary.
+
+Follow these steps to complete the task:
+1. Carefully read the source text and identify the key facts and main points.
+2. Read the synthesized summary (Summary) and compare it to the reference summary (Target Summary). Use the following questions to identify errors in each category: Faithfulness, Completeness, Conciseness
+3. For each error identified, record the main error category and its corresponding sub error category. Provide a brief explanation for why the error falls under that category.
+
+Example:
+
+
+Source Text:
+
+{{Document}}
+
+Target Summary:
+
+{{Target Summary}}
+
+Summary:
+
+{{Summary}}
+
+
+Example Answer Format:
+
+
+Main Error Category : 
+Sub Error Category : 
+Reason : 

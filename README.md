@@ -54,10 +54,10 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |--------|-----|-----|
 |Faithfulness| Intrinsic Information | |
 || Extrinsic Information | Information not present in the source text is added |
-|| Ambiguity | |
-|| Overgeneralization | |
-|| Inaccurate Emphasis | |
-|| Incorrect Implication | |
+|| Ambiguity | The summary introduces unclear statements, leading to possible confusion or multiple interpretations|
+|| Overgeneralization | The summary broadens conclusions beyond what is supported by the source text |
+|| Inaccurate Emphasis | The summary overemphasizes secondary points, distorting the original focus |
+|| Incorrect Implication | The summary implies something not stated in the source, creating a misleading conclusion |
 |Completeness| Population Mismatch | When the group studied is different |
 || Intervention Mismatch | When the treatment or method differs |
 || Outcome Mismatch | When the results differ |

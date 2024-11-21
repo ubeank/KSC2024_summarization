@@ -61,10 +61,10 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |Completeness| Population Mismatch | When the group studied is different |
 || Intervention Mismatch | When the treatment or method differs |
 || Outcome Mismatch | When the results differ |
-|| Omission of Key Facts |  |
-|Conciseness| Redundancy |  |
-|| Length |  |
-|| Lack of Focus |  |
-|| Excessive detail |  |
+|| Omission of Key Facts | Important details are omitted |
+|Conciseness| Redundancy | Information is repeated unnecessarily |
+|| Length | The inclusion of excessive or unnecessary details that lengthen the summary |
+|| Lack of Focus | The inclusion of unrelated or secondary information |
+|| Excessive detail | The summary includes too much detail |
 
 

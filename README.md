@@ -52,7 +52,8 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 --------------------------------------------------------------------------------
 |Main error category|Sub error category|Description|
 |--------|-----|-----|
-|Faithfulness| | |
+|Faithfulness| Intrinsic Information | |
+|| Extrinsic Information | |
 |Completeness|  |  |
 |Conciseness| |  |
 

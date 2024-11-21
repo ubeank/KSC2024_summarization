@@ -45,4 +45,13 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |summarization_V2 + GEval_V2|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
 |gpt-4o-mini (1-shot)| 3.737 | 3.783 | 3.624 |
-|gpt-4o-mini (lecture summarizer & 1-shot)  | 3.569 | 3.603 | 3.321 |
+|gpt-4o-mini (lecture summarizer & 1-shot)| 3.569 | 3.603 | 3.321 |
+
+
+--------------------------------------------------------------------------------
+|Main error category|Sub error category|Description|
+|--------|-----|-----|
+|Faithfulness| | |
+|Completeness|  |  |
+|Conciseness| |  |
+

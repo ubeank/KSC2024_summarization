@@ -26,6 +26,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (lecture summarizer & 1-shot)| V2 | 0.854 |
 
 
+--------------------------------------------------------------------------------
 |summarization_V1 + GEval_V1|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
 |led-base-16k (baseline)| 2.161 | 1.413 | 3.066 |

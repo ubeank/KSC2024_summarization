@@ -51,7 +51,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 --------------------------------------------------------------------------------
 |Main error category|Sub error category|Weight|Description|
-|--------|-----|-----|
+|--------|-----|-----|----------|
 |Faithfulness (100)| Intrinsic Information || Adding details not found in the original text, changing its meaning |
 || Extrinsic Information || Information not present in the source text is added |
 || Ambiguity || The summary is unclear or vague, leading to multiple interpretations |

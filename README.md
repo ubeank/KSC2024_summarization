@@ -52,19 +52,19 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 --------------------------------------------------------------------------------
 |Main error category|Sub error category|Weight|Description|
 |--------|-----|-----|----------|
-|Faithfulness (100)| Intrinsic Information || Adding details not found in the original text, changing its meaning |
-|| Extrinsic Information || Information not present in the source text is added |
-|| Ambiguity || The summary is unclear or vague, leading to multiple interpretations |
-|| Overgeneralization || Making broad statements that aren't supported by the original text |
-|| Inaccurate Emphasis || Misplacing importance on details that aren't central to the original message |
-|| Incorrect Implication || Suggesting conclusions that the original text does not support |
+|Faithfulness (100)| Intrinsic Information | 30 | Adding details not found in the original text, changing its meaning |
+|| Extrinsic Information | 25 | Information not present in the source text is added |
+|| Ambiguity | 15 | The summary is unclear or vague, leading to multiple interpretations |
+|| Overgeneralization | 10 | Making broad statements that aren't supported by the original text |
+|| Incorrect Implication | 10 | Suggesting conclusions that the original text does not support |
+|| Inaccurate Emphasis | 10 | Misplacing importance on details that aren't central to the original message |
 |Completeness (100)| Population Mismatch | 25 | When the group studied is different |
 || Intervention Mismatch | 25 | When the treatment or method differs |
 || Outcome Mismatch | 25 | When the results differ |
 || Omission of Key Facts | 25 | Important details are omitted |
-|Conciseness (100)| Redundancy || Information is repeated unnecessarily |
-|| Length || The inclusion of excessive or unnecessary details that lengthen the summary |
-|| Lack of Focus || The inclusion of unrelated or secondary information |
-|| Excessive detail || The summary includes too much detail |
+|Conciseness (100)| Redundancy | 30 | Information is repeated unnecessarily |
+|| Length | 25 | The inclusion of excessive or unnecessary details that lengthen the summary |
+|| Lack of Focus | 25 | The inclusion of unrelated or secondary information |
+|| Excessive detail | 20 | The summary includes too much detail |
 
 

@@ -1,0 +1,52 @@
+You are an expert in analyzing medical research summaries. Your task is to evaluate a synthesized summary (Summary) based on the provided original abstracts (Source Text) from biomedical research papers and a reference summary (Target Summary). Identify errors in the synthesized summary and annotate them using HTML tags to specify all relevant sub error categories. If a segment exhibits multiple errors, include all applicable sub error categories in the class attribute, separated by spaces. Additionally, for each identified error, record the sub error categories, and provide a explanation of why the error falls under those categories.
+
+
+Main Error Categories:
+Faithfulness - The summarizer does not manipulate the information in the input text (i.e.,intrinsic) and add any information not directly inferable from the input text (i.e., extrinsic). 
+
+
+Sub Error Categories:
+Intrinsic_Information - Adding details not found in the original text, changing its meaning
+Extrinsic_Information - Information not present in the source text is added
+Ambiguity - The summary is unclear or vague, leading to multiple interpretations
+Overgeneralization - Making broad statements that aren't supported by the original text
+Incorrect_Implication - Suggesting conclusions that the original text does not support
+Inaccurate_Emphasis - Misplacing importance on details that aren't central to the original message
+
+
+Task Instructions:
+1. Understand the Error Categories: Familiarize yourself with the definitions of main and sub error categories.
+2. Analyze the Summaries: 
+Compare the source text with the synthesized summary and the reference summary.
+Identify segments in the synthesized summary that correspond to each sub error category.
+If multiple sub error categories apply to the same segment, include all categories in the class attribute, separated by spaces.
+3. Annotate Errors in the Synthesized Summary: 
+Use HTML tags to mark errors in the format:
+<span class= "sub_error_name1" "sub_error_name2">[Error Segment]</span>.
+Ensure the tags cover only the specific portion of the text where the errors occur.
+4. Document the Errors: 
+For each error identified, provide the following details:
+Sub Error Category: Specific sub error category. 
+Reason: A explanation of why the error falls under these categories and how it deviates from the reference summary.
+
+
+
+Example:
+
+Source Text:  
+{['source_text']}
+
+Target Summary:  
+{['reference_summary']} 
+
+Summary:  
+{['synthesized_summary']}
+
+
+Example Answer Format:
+
+1. HTML-tagged Generated Summary:
+
+2. Error Documentation
+Sub Error Category : 
+Reason : 

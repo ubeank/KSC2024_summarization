@@ -1,0 +1,14 @@
+[
+    {
+        "ReviewID": "CD007016",
+        "Generated": "A study compared tidal peritoneal dialysis (TPD) and continuous equilibrating peritoneal dialysis (CEPD) for treating hypercatabolic acute renal failure (ARF) in developing countries. In a randomized trial involving 87 patients, TPD demonstrated superior solute clearances, achieving higher creatinine and urea clearances compared to CEPD. While CEPD did not meet adequacy standards, both methods are viable options for managing mild to moderate hypercatabolic ARF. TPD offered greater efficiency with fewer protein losses and was more cost-effective. Overall, Kt/V effectively evaluated solute removal in peritoneal dialysis."
+    },
+    {
+        "ReviewID": "CD007119",
+        "Generated": "In a series of trials, various thrombolytic agents were assessed for efficacy in restoring function to occluded central venous access devices (CVADs). Alfimeprase demonstrated superior early patency rates compared to alteplase, achieving 60% restoration at 30 minutes (P = .0075). Recombinant urokinase (r-UK) outperformed placebo in all tested doses, restoring function significantly better than placebo (54% r-UK vs. 30% placebo, P = 0.002). Alteplase also showed high efficacy (90% success) without serious adverse events. These findings support continuing evaluation of alfimeprase and r-UK for CVAD occlusion treatment, emphasizing the need for further dosage optimization and safety assessments."
+    },
+    {
+        "ReviewID": "CD006525",
+        "Generated": "A randomized trial evaluated the effectiveness of different strategies for improving access to depression treatment in primary care settings, focusing on integrated care versus usual referral practices. Results showed that integrated care significantly increased patient engagement in treatment (71% vs 49%) and higher mental health visit uptake. Similarly, a collaborative care model for low-income patients with cancer resulted in 63% of participants achieving notable depressive symptom reduction after a year, compared to 50% in usual care. Quality improvement interventions demonstrated improvements in both depressive symptoms and care satisfaction, suggesting that combining care management with physician training enhances treatment outcomes. However, while many studies indicate positive results, there is a need for further evaluation to optimize these interventions and investigate scalability in diverse populations."
+    }
+]

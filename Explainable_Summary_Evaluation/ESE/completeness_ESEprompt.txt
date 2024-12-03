@@ -31,13 +31,13 @@ Reason: A explanation of why the error falls under these categories and how it d
 Example:
 
 Source Text:  
-{['source_text']}
+{{source_text}}
 
 Target Summary:  
-{['reference_summary']} 
+{{reference_summary}} 
 
 Summary:  
-{['synthesized_summary']}
+{{synthesized_summary}}
 
 
 Example Answer Format:

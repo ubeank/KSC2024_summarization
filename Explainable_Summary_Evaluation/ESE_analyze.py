@@ -17,7 +17,7 @@ def analyze_summary(review_id, source_text, reference_summary, synthesized_summa
             {"role": "user", "content": prompt}
         ],
         temperature=0,
-        max_tokens=3000
+        max_tokens=1500
     )
     
     return completion.choices[0].message.content.strip()
@@ -50,7 +50,7 @@ def get_target_summary_from_csv(file_path, review_id):
 
 
 def log_review_success(review_id):
-    log_path = "./logs/log1"
+    log_path = "./logs/log_faithfulness"
     os.makedirs(os.path.dirname(log_path), exist_ok=True)
     with open(log_path, 'a') as log_file:
         log_file.write(f"Successfully processed ReviewID: {review_id}\n")

@@ -28,7 +28,7 @@ def split_analysis(analysis_text):
         html_summary = parts[0].replace("1. HTML-tagged Generated Summary:\n", "").strip()
         error_documentation = parts[1].strip()
         return html_summary, error_documentation
-    return analysis_text, ""  # Default fallback if splitting fails
+    return analysis_text, ""
 
 
 def get_generated_summary_from_json(file_path, review_id):
@@ -77,7 +77,6 @@ def evaluate_all_reviews(abstracts_file_path, summary_file_path, target_summary_
                 review_id, source_text, target_summary, synthesized_summary, prompt_template
             )
 
-            # Split analysis into separate fields
             html_summary, error_documentation = split_analysis(analysis_result)
 
             result_entry = {

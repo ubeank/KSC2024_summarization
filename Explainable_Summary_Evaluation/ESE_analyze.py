@@ -50,7 +50,7 @@ def get_target_summary_from_csv(file_path, review_id):
 
 
 def log_review_success(review_id):
-    log_path = "./logs/log_faithfulness"
+    log_path = "./logs/log_completeness"
     os.makedirs(os.path.dirname(log_path), exist_ok=True)
     with open(log_path, 'a') as log_file:
         log_file.write(f"Successfully processed ReviewID: {review_id}\n")

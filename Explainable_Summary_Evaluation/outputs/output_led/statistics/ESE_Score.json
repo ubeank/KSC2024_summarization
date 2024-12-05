@@ -1,0 +1,3657 @@
+{
+    "Dataset Average Scores": {
+        "Completeness": 53.2734,
+        "Conciseness": 44.4916,
+        "Faithfulness": 55.1731
+    },
+    "Samples": [
+        {
+            "ReviewID": "CD000220",
+            "Scores": {
+                "Completeness": 67.5856,
+                "Conciseness": 45.057,
+                "Faithfulness": 81.1027
+            }
+        },
+        {
+            "ReviewID": "CD008120",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD002968",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD008472",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD006373",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 35
+            }
+        },
+        {
+            "ReviewID": "CD007033",
+            "Scores": {
+                "Completeness": 49.9746,
+                "Conciseness": 13.3266,
+                "Faithfulness": 19.9898
+            }
+        },
+        {
+            "ReviewID": "CD004366",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD010256",
+            "Scores": {
+                "Completeness": 28.8955,
+                "Conciseness": 28.8955,
+                "Faithfulness": 34.6747
+            }
+        },
+        {
+            "ReviewID": "CD004409",
+            "Scores": {
+                "Completeness": 24.477,
+                "Conciseness": 17.9498,
+                "Faithfulness": 14.6862
+            }
+        },
+        {
+            "ReviewID": "CD003075",
+            "Scores": {
+                "Completeness": 49.6979,
+                "Conciseness": 74.5468,
+                "Faithfulness": 64.6073
+            }
+        },
+        {
+            "ReviewID": "CD003225",
+            "Scores": {
+                "Completeness": 56.7018,
+                "Conciseness": 37.8012,
+                "Faithfulness": 68.0422
+            }
+        },
+        {
+            "ReviewID": "CD008012",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD000978",
+            "Scores": {
+                "Completeness": 67.3625,
+                "Conciseness": 44.9084,
+                "Faithfulness": 58.3809
+            }
+        },
+        {
+            "ReviewID": "CD003948",
+            "Scores": {
+                "Completeness": 41.8436,
+                "Conciseness": 27.8958,
+                "Faithfulness": 44.6332
+            }
+        },
+        {
+            "ReviewID": "CD006790",
+            "Scores": {
+                "Completeness": 47.9917,
+                "Conciseness": 47.9917,
+                "Faithfulness": 57.59
+            }
+        },
+        {
+            "ReviewID": "CD006268",
+            "Scores": {
+                "Completeness": 31.3883,
+                "Conciseness": 31.3883,
+                "Faithfulness": 31.3883
+            }
+        },
+        {
+            "ReviewID": "CD000980",
+            "Scores": {
+                "Completeness": 21.5405,
+                "Conciseness": 14.3603,
+                "Faithfulness": 25.8486
+            }
+        },
+        {
+            "ReviewID": "CD003687",
+            "Scores": {
+                "Completeness": 60.585,
+                "Conciseness": 44.429,
+                "Faithfulness": 56.546
+            }
+        },
+        {
+            "ReviewID": "CD001782",
+            "Scores": {
+                "Completeness": 55.1148,
+                "Conciseness": 55.1148,
+                "Faithfulness": 47.7662
+            }
+        },
+        {
+            "ReviewID": "CD006355",
+            "Scores": {
+                "Completeness": 36.3198,
+                "Conciseness": 54.4798,
+                "Faithfulness": 58.1118
+            }
+        },
+        {
+            "ReviewID": "CD003082",
+            "Scores": {
+                "Completeness": 49.6552,
+                "Conciseness": 49.6552,
+                "Faithfulness": 49.6552
+            }
+        },
+        {
+            "ReviewID": "CD001543",
+            "Scores": {
+                "Completeness": 32.6398,
+                "Conciseness": 21.7599,
+                "Faithfulness": 28.2879
+            }
+        },
+        {
+            "ReviewID": "CD000405",
+            "Scores": {
+                "Completeness": 27.4225,
+                "Conciseness": 41.1337,
+                "Faithfulness": 49.3605
+            }
+        },
+        {
+            "ReviewID": "CD005506",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD005616",
+            "Scores": {
+                "Completeness": 40.0198,
+                "Conciseness": 40.0198,
+                "Faithfulness": 48.0237
+            }
+        },
+        {
+            "ReviewID": "CD009404",
+            "Scores": {
+                "Completeness": 21.3043,
+                "Conciseness": 31.9565,
+                "Faithfulness": 38.3478
+            }
+        },
+        {
+            "ReviewID": "CD003917",
+            "Scores": {
+                "Completeness": 26.3309,
+                "Conciseness": 26.3309,
+                "Faithfulness": 26.3309
+            }
+        },
+        {
+            "ReviewID": "CD005522",
+            "Scores": {
+                "Completeness": 60.3774,
+                "Conciseness": 40.2516,
+                "Faithfulness": 72.4528
+            }
+        },
+        {
+            "ReviewID": "CD008838",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD005463",
+            "Scores": {
+                "Completeness": 54.8438,
+                "Conciseness": 54.8438,
+                "Faithfulness": 51.1875
+            }
+        },
+        {
+            "ReviewID": "CD006097",
+            "Scores": {
+                "Completeness": 23.6085,
+                "Conciseness": 47.2171,
+                "Faithfulness": 47.2171
+            }
+        },
+        {
+            "ReviewID": "CD003709",
+            "Scores": {
+                "Completeness": 38.2716,
+                "Conciseness": 38.2716,
+                "Faithfulness": 38.2716
+            }
+        },
+        {
+            "ReviewID": "CD008870",
+            "Scores": {
+                "Completeness": 26.8844,
+                "Conciseness": 17.9229,
+                "Faithfulness": 26.8844
+            }
+        },
+        {
+            "ReviewID": "CD006194",
+            "Scores": {
+                "Completeness": 48.0603,
+                "Conciseness": 32.0402,
+                "Faithfulness": 48.0603
+            }
+        },
+        {
+            "ReviewID": "CD005042",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 70
+            }
+        },
+        {
+            "ReviewID": "CD005413",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001983",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD002988",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006772",
+            "Scores": {
+                "Completeness": 53.3766,
+                "Conciseness": 53.3766,
+                "Faithfulness": 64.0519
+            }
+        },
+        {
+            "ReviewID": "CD007887",
+            "Scores": {
+                "Completeness": 24.3096,
+                "Conciseness": 24.3096,
+                "Faithfulness": 29.1715
+            }
+        },
+        {
+            "ReviewID": "CD007166",
+            "Scores": {
+                "Completeness": 49.7537,
+                "Conciseness": 33.1691,
+                "Faithfulness": 43.1199
+            }
+        },
+        {
+            "ReviewID": "CD006956",
+            "Scores": {
+                "Completeness": 64.8148,
+                "Conciseness": 64.8148,
+                "Faithfulness": 64.8148
+            }
+        },
+        {
+            "ReviewID": "CD003054",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001005",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD006829",
+            "Scores": {
+                "Completeness": 41.886,
+                "Conciseness": 11.1696,
+                "Faithfulness": 30.7164
+            }
+        },
+        {
+            "ReviewID": "CD005646",
+            "Scores": {
+                "Completeness": 66.2273,
+                "Conciseness": 26.4909,
+                "Faithfulness": 70.6425
+            }
+        },
+        {
+            "ReviewID": "CD007345",
+            "Scores": {
+                "Completeness": 64.6181,
+                "Conciseness": 38.7709,
+                "Faithfulness": 38.7709
+            }
+        },
+        {
+            "ReviewID": "CD010292",
+            "Scores": {
+                "Completeness": 42.2475,
+                "Conciseness": 28.165,
+                "Faithfulness": 45.064
+            }
+        },
+        {
+            "ReviewID": "CD005203",
+            "Scores": {
+                "Completeness": 27.9921,
+                "Conciseness": 27.9921,
+                "Faithfulness": 33.5906
+            }
+        },
+        {
+            "ReviewID": "CD003978",
+            "Scores": {
+                "Completeness": 36.8836,
+                "Conciseness": 24.589,
+                "Faithfulness": 22.1301
+            }
+        },
+        {
+            "ReviewID": "CD009792",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003422",
+            "Scores": {
+                "Completeness": 44.7297,
+                "Conciseness": 67.0946,
+                "Faithfulness": 67.0946
+            }
+        },
+        {
+            "ReviewID": "CD008351",
+            "Scores": {
+                "Completeness": 27.3913,
+                "Conciseness": 18.2609,
+                "Faithfulness": 23.7391
+            }
+        },
+        {
+            "ReviewID": "CD003937",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD005059",
+            "Scores": {
+                "Completeness": 32.6402,
+                "Conciseness": 32.6402,
+                "Faithfulness": 39.1683
+            }
+        },
+        {
+            "ReviewID": "CD003231",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003159",
+            "Scores": {
+                "Completeness": 25.0,
+                "Conciseness": 16.6667,
+                "Faithfulness": 26.6667
+            }
+        },
+        {
+            "ReviewID": "CD002224",
+            "Scores": {
+                "Completeness": 46.6054,
+                "Conciseness": 31.0703,
+                "Faithfulness": 49.7125
+            }
+        },
+        {
+            "ReviewID": "CD004737",
+            "Scores": {
+                "Completeness": 49.2515,
+                "Conciseness": 49.2515,
+                "Faithfulness": 59.1018
+            }
+        },
+        {
+            "ReviewID": "CD002964",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001487",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008449",
+            "Scores": {
+                "Completeness": 38.9218,
+                "Conciseness": 25.9479,
+                "Faithfulness": 46.7062
+            }
+        },
+        {
+            "ReviewID": "CD009109",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001691",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001162",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008862",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD004929",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD001878",
+            "Scores": {
+                "Completeness": 26.5179,
+                "Conciseness": 39.7768,
+                "Faithfulness": 47.7321
+            }
+        },
+        {
+            "ReviewID": "CD005944",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD008607",
+            "Scores": {
+                "Completeness": 30.0282,
+                "Conciseness": 30.0282,
+                "Faithfulness": 30.0282
+            }
+        },
+        {
+            "ReviewID": "CD006484",
+            "Scores": {
+                "Completeness": 54.4492,
+                "Conciseness": 36.2994,
+                "Faithfulness": 65.339
+            }
+        },
+        {
+            "ReviewID": "CD006309",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD000305",
+            "Scores": {
+                "Completeness": 59.2742,
+                "Conciseness": 39.5161,
+                "Faithfulness": 59.2742
+            }
+        },
+        {
+            "ReviewID": "CD007394",
+            "Scores": {
+                "Completeness": 25.8699,
+                "Conciseness": 25.8699,
+                "Faithfulness": 25.8699
+            }
+        },
+        {
+            "ReviewID": "CD002896",
+            "Scores": {
+                "Completeness": 40.346,
+                "Conciseness": 40.346,
+                "Faithfulness": 48.4152
+            }
+        },
+        {
+            "ReviewID": "CD006726",
+            "Scores": {
+                "Completeness": 27.331,
+                "Conciseness": 18.2206,
+                "Faithfulness": 25.5089
+            }
+        },
+        {
+            "ReviewID": "CD004787",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003096",
+            "Scores": {
+                "Completeness": 59.6591,
+                "Conciseness": 59.6591,
+                "Faithfulness": 59.6591
+            }
+        },
+        {
+            "ReviewID": "CD003421",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003772",
+            "Scores": {
+                "Completeness": 42.0596,
+                "Conciseness": 42.0596,
+                "Faithfulness": 42.0596
+            }
+        },
+        {
+            "ReviewID": "CD003467",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001331",
+            "Scores": {
+                "Completeness": 67.8468,
+                "Conciseness": 49.7543,
+                "Faithfulness": 81.4162
+            }
+        },
+        {
+            "ReviewID": "CD002095",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 60
+            }
+        },
+        {
+            "ReviewID": "CD005251",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD004943",
+            "Scores": {
+                "Completeness": 60.109,
+                "Conciseness": 60.109,
+                "Faithfulness": 60.109
+            }
+        },
+        {
+            "ReviewID": "CD009275",
+            "Scores": {
+                "Completeness": 44.1695,
+                "Conciseness": 44.1695,
+                "Faithfulness": 44.1695
+            }
+        },
+        {
+            "ReviewID": "CD007668",
+            "Scores": {
+                "Completeness": 28.6364,
+                "Conciseness": 19.0909,
+                "Faithfulness": 30.5455
+            }
+        },
+        {
+            "ReviewID": "CD007474",
+            "Scores": {
+                "Completeness": 35.8891,
+                "Conciseness": 35.8891,
+                "Faithfulness": 43.0669
+            }
+        },
+        {
+            "ReviewID": "CD002869",
+            "Scores": {
+                "Completeness": 49.4094,
+                "Conciseness": 32.9396,
+                "Faithfulness": 59.2913
+            }
+        },
+        {
+            "ReviewID": "CD001046",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD006746",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004888",
+            "Scores": {
+                "Completeness": 40.764,
+                "Conciseness": 27.176,
+                "Faithfulness": 40.764
+            }
+        },
+        {
+            "ReviewID": "CD005582",
+            "Scores": {
+                "Completeness": 30.9257,
+                "Conciseness": 22.6788,
+                "Faithfulness": 30.9257
+            }
+        },
+        {
+            "ReviewID": "CD003458",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD008591",
+            "Scores": {
+                "Completeness": 34.5533,
+                "Conciseness": 23.0355,
+                "Faithfulness": 29.9462
+            }
+        },
+        {
+            "ReviewID": "CD007414",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD001998",
+            "Scores": {
+                "Completeness": 49.2713,
+                "Conciseness": 49.2713,
+                "Faithfulness": 49.2713
+            }
+        },
+        {
+            "ReviewID": "CD004918",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD005006",
+            "Scores": {
+                "Completeness": 52.9116,
+                "Conciseness": 21.1647,
+                "Faithfulness": 38.8019
+            }
+        },
+        {
+            "ReviewID": "CD005397",
+            "Scores": {
+                "Completeness": 29.8351,
+                "Conciseness": 29.8351,
+                "Faithfulness": 53.7031
+            }
+        },
+        {
+            "ReviewID": "CD008643",
+            "Scores": {
+                "Completeness": 29.7138,
+                "Conciseness": 19.8092,
+                "Faithfulness": 13.8664
+            }
+        },
+        {
+            "ReviewID": "CD002992",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 50
+            }
+        },
+        {
+            "ReviewID": "CD000024",
+            "Scores": {
+                "Completeness": 69.2871,
+                "Conciseness": 46.1914,
+                "Faithfulness": 27.7148
+            }
+        },
+        {
+            "ReviewID": "CD002892",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD004194",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD006455",
+            "Scores": {
+                "Completeness": 49.505,
+                "Conciseness": 49.505,
+                "Faithfulness": 49.505
+            }
+        },
+        {
+            "ReviewID": "CD009154",
+            "Scores": {
+                "Completeness": 25.0314,
+                "Conciseness": 16.6876,
+                "Faithfulness": 25.0314
+            }
+        },
+        {
+            "ReviewID": "CD001062",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD002962",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003852",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD007404",
+            "Scores": {
+                "Completeness": 40.8488,
+                "Conciseness": 61.2732,
+                "Faithfulness": 73.5279
+            }
+        },
+        {
+            "ReviewID": "CD004425",
+            "Scores": {
+                "Completeness": 60.7852,
+                "Conciseness": 40.5235,
+                "Faithfulness": 40.5235
+            }
+        },
+        {
+            "ReviewID": "CD007066",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD007224",
+            "Scores": {
+                "Completeness": 32.6594,
+                "Conciseness": 32.6594,
+                "Faithfulness": 32.6594
+            }
+        },
+        {
+            "ReviewID": "CD002200",
+            "Scores": {
+                "Completeness": 25.1553,
+                "Conciseness": 25.1553,
+                "Faithfulness": 25.1553
+            }
+        },
+        {
+            "ReviewID": "CD003260",
+            "Scores": {
+                "Completeness": 43.8495,
+                "Conciseness": 29.233,
+                "Faithfulness": 38.0029
+            }
+        },
+        {
+            "ReviewID": "CD007672",
+            "Scores": {
+                "Completeness": 49.1827,
+                "Conciseness": 32.7885,
+                "Faithfulness": 42.625
+            }
+        },
+        {
+            "ReviewID": "CD002783",
+            "Scores": {
+                "Completeness": 46.8543,
+                "Conciseness": 70.2815,
+                "Faithfulness": 60.9106
+            }
+        },
+        {
+            "ReviewID": "CD009202",
+            "Scores": {
+                "Completeness": 25,
+                "Conciseness": 20,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD000246",
+            "Scores": {
+                "Completeness": 25.6258,
+                "Conciseness": 25.6258,
+                "Faithfulness": 22.209
+            }
+        },
+        {
+            "ReviewID": "CD003594",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD002255",
+            "Scores": {
+                "Completeness": 37.5854,
+                "Conciseness": 25.0569,
+                "Faithfulness": 37.5854
+            }
+        },
+        {
+            "ReviewID": "CD000460",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006385",
+            "Scores": {
+                "Completeness": 52.1889,
+                "Conciseness": 34.7926,
+                "Faithfulness": 52.1889
+            }
+        },
+        {
+            "ReviewID": "CD003673",
+            "Scores": {
+                "Completeness": 61.6477,
+                "Conciseness": 61.6477,
+                "Faithfulness": 73.9773
+            }
+        },
+        {
+            "ReviewID": "CD005486",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD007771",
+            "Scores": {
+                "Completeness": 25,
+                "Conciseness": 75,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD006193",
+            "Scores": {
+                "Completeness": 58.2402,
+                "Conciseness": 58.2402,
+                "Faithfulness": 58.2402
+            }
+        },
+        {
+            "ReviewID": "CD005087",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 25,
+                "Faithfulness": 35
+            }
+        },
+        {
+            "ReviewID": "CD006904",
+            "Scores": {
+                "Completeness": 69.0832,
+                "Conciseness": 46.0554,
+                "Faithfulness": 59.8721
+            }
+        },
+        {
+            "ReviewID": "CD003147",
+            "Scores": {
+                "Completeness": 65.9774,
+                "Conciseness": 65.9774,
+                "Faithfulness": 65.9774
+            }
+        },
+        {
+            "ReviewID": "CD001059",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD006505",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006533",
+            "Scores": {
+                "Completeness": 26.462,
+                "Conciseness": 26.462,
+                "Faithfulness": 26.462
+            }
+        },
+        {
+            "ReviewID": "CD001715",
+            "Scores": {
+                "Completeness": 34.8419,
+                "Conciseness": 34.8419,
+                "Faithfulness": 30.1963
+            }
+        },
+        {
+            "ReviewID": "CD000345",
+            "Scores": {
+                "Completeness": 47.7273,
+                "Conciseness": 31.8182,
+                "Faithfulness": 47.7273
+            }
+        },
+        {
+            "ReviewID": "CD004495",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004219",
+            "Scores": {
+                "Completeness": 36.183,
+                "Conciseness": 36.183,
+                "Faithfulness": 43.4196
+            }
+        },
+        {
+            "ReviewID": "CD002246",
+            "Scores": {
+                "Completeness": 34.5489,
+                "Conciseness": 23.0326,
+                "Faithfulness": 29.9424
+            }
+        },
+        {
+            "ReviewID": "CD010611",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008302",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD005129",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 60
+            }
+        },
+        {
+            "ReviewID": "CD007693",
+            "Scores": {
+                "Completeness": 14.6913,
+                "Conciseness": 14.6913,
+                "Faithfulness": 14.6913
+            }
+        },
+        {
+            "ReviewID": "CD004487",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD008388",
+            "Scores": {
+                "Completeness": 36.6723,
+                "Conciseness": 24.4482,
+                "Faithfulness": 44.0068
+            }
+        },
+        {
+            "ReviewID": "CD001073",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD000168",
+            "Scores": {
+                "Completeness": 25.4878,
+                "Conciseness": 25.4878,
+                "Faithfulness": 25.4878
+            }
+        },
+        {
+            "ReviewID": "CD002855",
+            "Scores": {
+                "Completeness": 67.6644,
+                "Conciseness": 67.6644,
+                "Faithfulness": 54.1315
+            }
+        },
+        {
+            "ReviewID": "CD004740",
+            "Scores": {
+                "Completeness": 12.0876,
+                "Conciseness": 12.0876,
+                "Faithfulness": 10.4759
+            }
+        },
+        {
+            "ReviewID": "CD004884",
+            "Scores": {
+                "Completeness": 70.082,
+                "Conciseness": 70.082,
+                "Faithfulness": 60.7377
+            }
+        },
+        {
+            "ReviewID": "CD001694",
+            "Scores": {
+                "Completeness": 48.8924,
+                "Conciseness": 48.8924,
+                "Faithfulness": 29.3354
+            }
+        },
+        {
+            "ReviewID": "CD006660",
+            "Scores": {
+                "Completeness": 50.9926,
+                "Conciseness": 50.9926,
+                "Faithfulness": 50.9926
+            }
+        },
+        {
+            "ReviewID": "CD005952",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD007926",
+            "Scores": {
+                "Completeness": 34.1078,
+                "Conciseness": 22.7385,
+                "Faithfulness": 29.5601
+            }
+        },
+        {
+            "ReviewID": "CD006665",
+            "Scores": {
+                "Completeness": 20.9832,
+                "Conciseness": 41.9664,
+                "Faithfulness": 54.5564
+            }
+        },
+        {
+            "ReviewID": "CD005421",
+            "Scores": {
+                "Completeness": 57.8194,
+                "Conciseness": 57.8194,
+                "Faithfulness": 61.674
+            }
+        },
+        {
+            "ReviewID": "CD003212",
+            "Scores": {
+                "Completeness": 47.9345,
+                "Conciseness": 71.9017,
+                "Faithfulness": 33.5541
+            }
+        },
+        {
+            "ReviewID": "CD006715",
+            "Scores": {
+                "Completeness": 43.8338,
+                "Conciseness": 43.8338,
+                "Faithfulness": 43.8338
+            }
+        },
+        {
+            "ReviewID": "CD009755",
+            "Scores": {
+                "Completeness": 17.5532,
+                "Conciseness": 17.5532,
+                "Faithfulness": 21.0638
+            }
+        },
+        {
+            "ReviewID": "CD005496",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD000483",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD005081",
+            "Scores": {
+                "Completeness": 44.4915,
+                "Conciseness": 44.4915,
+                "Faithfulness": 44.4915
+            }
+        },
+        {
+            "ReviewID": "CD003940",
+            "Scores": {
+                "Completeness": 8.7457,
+                "Conciseness": 8.7457,
+                "Faithfulness": 10.4949
+            }
+        },
+        {
+            "ReviewID": "CD002280",
+            "Scores": {
+                "Completeness": 30.6931,
+                "Conciseness": 30.6931,
+                "Faithfulness": 36.8317
+            }
+        },
+        {
+            "ReviewID": "CD000409",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008186",
+            "Scores": {
+                "Completeness": 25,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003713",
+            "Scores": {
+                "Completeness": 41.5563,
+                "Conciseness": 41.5563,
+                "Faithfulness": 49.8675
+            }
+        },
+        {
+            "ReviewID": "CD006386",
+            "Scores": {
+                "Completeness": 61.5635,
+                "Conciseness": 36.9381,
+                "Faithfulness": 73.8762
+            }
+        },
+        {
+            "ReviewID": "CD005276",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD004791",
+            "Scores": {
+                "Completeness": 29.0582,
+                "Conciseness": 29.0582,
+                "Faithfulness": 29.0582
+            }
+        },
+        {
+            "ReviewID": "CD000254",
+            "Scores": {
+                "Completeness": 50.9219,
+                "Conciseness": 33.9479,
+                "Faithfulness": 37.3427
+            }
+        },
+        {
+            "ReviewID": "CD007872",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD001036",
+            "Scores": {
+                "Completeness": 49.6735,
+                "Conciseness": 33.1157,
+                "Faithfulness": 49.6735
+            }
+        },
+        {
+            "ReviewID": "CD006069",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 60
+            }
+        },
+        {
+            "ReviewID": "CD008871",
+            "Scores": {
+                "Completeness": 48.4252,
+                "Conciseness": 48.4252,
+                "Faithfulness": 58.1102
+            }
+        },
+        {
+            "ReviewID": "CD001275",
+            "Scores": {
+                "Completeness": 59.6026,
+                "Conciseness": 59.6026,
+                "Faithfulness": 59.6026
+            }
+        },
+        {
+            "ReviewID": "CD003782",
+            "Scores": {
+                "Completeness": 56.3291,
+                "Conciseness": 56.3291,
+                "Faithfulness": 48.8186
+            }
+        },
+        {
+            "ReviewID": "CD004277",
+            "Scores": {
+                "Completeness": 46.1066,
+                "Conciseness": 46.1066,
+                "Faithfulness": 55.3279
+            }
+        },
+        {
+            "ReviewID": "CD002265",
+            "Scores": {
+                "Completeness": 45.1669,
+                "Conciseness": 33.1224,
+                "Faithfulness": 54.2003
+            }
+        },
+        {
+            "ReviewID": "CD006170",
+            "Scores": {
+                "Completeness": 30.2083,
+                "Conciseness": 30.2083,
+                "Faithfulness": 30.2083
+            }
+        },
+        {
+            "ReviewID": "CD006639",
+            "Scores": {
+                "Completeness": 46.5,
+                "Conciseness": 62.0,
+                "Faithfulness": 55.8
+            }
+        },
+        {
+            "ReviewID": "CD003071",
+            "Scores": {
+                "Completeness": 37.4394,
+                "Conciseness": 37.4394,
+                "Faithfulness": 17.4717
+            }
+        },
+        {
+            "ReviewID": "CD002784",
+            "Scores": {
+                "Completeness": 42.7365,
+                "Conciseness": 42.7365,
+                "Faithfulness": 51.2838
+            }
+        },
+        {
+            "ReviewID": "CD002055",
+            "Scores": {
+                "Completeness": 33.7755,
+                "Conciseness": 33.7755,
+                "Faithfulness": 29.2721
+            }
+        },
+        {
+            "ReviewID": "CD004685",
+            "Scores": {
+                "Completeness": 42.4147,
+                "Conciseness": 28.2765,
+                "Faithfulness": 50.8977
+            }
+        },
+        {
+            "ReviewID": "CD007806",
+            "Scores": {
+                "Completeness": 46.6216,
+                "Conciseness": 46.6216,
+                "Faithfulness": 46.6216
+            }
+        },
+        {
+            "ReviewID": "CD001705",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD009415",
+            "Scores": {
+                "Completeness": 12.1003,
+                "Conciseness": 12.1003,
+                "Faithfulness": 12.1003
+            }
+        },
+        {
+            "ReviewID": "CD009110",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD005959",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD002047",
+            "Scores": {
+                "Completeness": 62.9688,
+                "Conciseness": 41.9792,
+                "Faithfulness": 54.5729
+            }
+        },
+        {
+            "ReviewID": "CD006168",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004678",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006229",
+            "Scores": {
+                "Completeness": 72.6884,
+                "Conciseness": 53.3048,
+                "Faithfulness": 72.6884
+            }
+        },
+        {
+            "ReviewID": "CD004538",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD008107",
+            "Scores": {
+                "Completeness": 50.2306,
+                "Conciseness": 33.4871,
+                "Faithfulness": 30.1384
+            }
+        },
+        {
+            "ReviewID": "CD001293",
+            "Scores": {
+                "Completeness": 42.8021,
+                "Conciseness": 28.5347,
+                "Faithfulness": 45.6555
+            }
+        },
+        {
+            "ReviewID": "CD002873",
+            "Scores": {
+                "Completeness": 44.9541,
+                "Conciseness": 44.9541,
+                "Faithfulness": 80.9174
+            }
+        },
+        {
+            "ReviewID": "CD004746",
+            "Scores": {
+                "Completeness": 69.5736,
+                "Conciseness": 46.3824,
+                "Faithfulness": 74.2119
+            }
+        },
+        {
+            "ReviewID": "CD010610",
+            "Scores": {
+                "Completeness": 52.5346,
+                "Conciseness": 35.023,
+                "Faithfulness": 52.5346
+            }
+        },
+        {
+            "ReviewID": "CD005568",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 35
+            }
+        },
+        {
+            "ReviewID": "CD001367",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD005523",
+            "Scores": {
+                "Completeness": 55.6661,
+                "Conciseness": 55.6661,
+                "Faithfulness": 48.2439
+            }
+        },
+        {
+            "ReviewID": "CD004585",
+            "Scores": {
+                "Completeness": 32.5688,
+                "Conciseness": 32.5688,
+                "Faithfulness": 48.8532
+            }
+        },
+        {
+            "ReviewID": "CD004362",
+            "Scores": {
+                "Completeness": 43.1773,
+                "Conciseness": 43.1773,
+                "Faithfulness": 40.2988
+            }
+        },
+        {
+            "ReviewID": "CD008288",
+            "Scores": {
+                "Completeness": 47.0519,
+                "Conciseness": 47.0519,
+                "Faithfulness": 28.2311
+            }
+        },
+        {
+            "ReviewID": "CD007480",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD002073",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003009",
+            "Scores": {
+                "Completeness": 61.056,
+                "Conciseness": 40.704,
+                "Faithfulness": 65.1264
+            }
+        },
+        {
+            "ReviewID": "CD003351",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD002085",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD000934",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD001342",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 45,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD002786",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD008361",
+            "Scores": {
+                "Completeness": 46.9547,
+                "Conciseness": 31.3031,
+                "Faithfulness": 56.3456
+            }
+        },
+        {
+            "ReviewID": "CD002179",
+            "Scores": {
+                "Completeness": 39.5683,
+                "Conciseness": 39.5683,
+                "Faithfulness": 39.5683
+            }
+        },
+        {
+            "ReviewID": "CD003122",
+            "Scores": {
+                "Completeness": 13.913,
+                "Conciseness": 13.913,
+                "Faithfulness": 13.913
+            }
+        },
+        {
+            "ReviewID": "CD000238",
+            "Scores": {
+                "Completeness": 46.6667,
+                "Conciseness": 46.6667,
+                "Faithfulness": 56.0
+            }
+        },
+        {
+            "ReviewID": "CD003774",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD002053",
+            "Scores": {
+                "Completeness": 68.1,
+                "Conciseness": 45.4,
+                "Faithfulness": 59.02
+            }
+        },
+        {
+            "ReviewID": "CD003654",
+            "Scores": {
+                "Completeness": 50.9319,
+                "Conciseness": 33.9546,
+                "Faithfulness": 50.9319
+            }
+        },
+        {
+            "ReviewID": "CD007519",
+            "Scores": {
+                "Completeness": 56.8471,
+                "Conciseness": 37.8981,
+                "Faithfulness": 56.8471
+            }
+        },
+        {
+            "ReviewID": "CD003139",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD005373",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD005538",
+            "Scores": {
+                "Completeness": 67.6471,
+                "Conciseness": 67.6471,
+                "Faithfulness": 81.1765
+            }
+        },
+        {
+            "ReviewID": "CD004604",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD005102",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD003668",
+            "Scores": {
+                "Completeness": 74.5161,
+                "Conciseness": 74.5161,
+                "Faithfulness": 79.4839
+            }
+        },
+        {
+            "ReviewID": "CD002911",
+            "Scores": {
+                "Completeness": 43.7378,
+                "Conciseness": 29.1585,
+                "Faithfulness": 46.6536
+            }
+        },
+        {
+            "ReviewID": "CD004074",
+            "Scores": {
+                "Completeness": 25.9924,
+                "Conciseness": 25.9924,
+                "Faithfulness": 31.1908
+            }
+        },
+        {
+            "ReviewID": "CD002760",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD002987",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001896",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD007124",
+            "Scores": {
+                "Completeness": 31.8891,
+                "Conciseness": 21.2594,
+                "Faithfulness": 14.8816
+            }
+        },
+        {
+            "ReviewID": "CD007350",
+            "Scores": {
+                "Completeness": 65.4891,
+                "Conciseness": 43.6594,
+                "Faithfulness": 78.587
+            }
+        },
+        {
+            "ReviewID": "CD002208",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 60
+            }
+        },
+        {
+            "ReviewID": "CD001419",
+            "Scores": {
+                "Completeness": 47.9779,
+                "Conciseness": 47.9779,
+                "Faithfulness": 86.3603
+            }
+        },
+        {
+            "ReviewID": "CD001018",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 30
+            }
+        },
+        {
+            "ReviewID": "CD004081",
+            "Scores": {
+                "Completeness": 44.9324,
+                "Conciseness": 29.955,
+                "Faithfulness": 53.9189
+            }
+        },
+        {
+            "ReviewID": "CD003472",
+            "Scores": {
+                "Completeness": 38.1,
+                "Conciseness": 25.4,
+                "Faithfulness": 38.1
+            }
+        },
+        {
+            "ReviewID": "CD004571",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001066",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 50
+            }
+        },
+        {
+            "ReviewID": "CD006332",
+            "Scores": {
+                "Completeness": 25,
+                "Conciseness": 50,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD007293",
+            "Scores": {
+                "Completeness": 45.4871,
+                "Conciseness": 30.3247,
+                "Faithfulness": 48.5196
+            }
+        },
+        {
+            "ReviewID": "CD001874",
+            "Scores": {
+                "Completeness": 48.9637,
+                "Conciseness": 48.9637,
+                "Faithfulness": 48.9637
+            }
+        },
+        {
+            "ReviewID": "CD003863",
+            "Scores": {
+                "Completeness": 47.3577,
+                "Conciseness": 31.5718,
+                "Faithfulness": 47.3577
+            }
+        },
+        {
+            "ReviewID": "CD009593",
+            "Scores": {
+                "Completeness": 40.6037,
+                "Conciseness": 27.0691,
+                "Faithfulness": 35.1899
+            }
+        },
+        {
+            "ReviewID": "CD001946",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001431",
+            "Scores": {
+                "Completeness": 31.297,
+                "Conciseness": 20.8647,
+                "Faithfulness": 33.3835
+            }
+        },
+        {
+            "ReviewID": "CD006033",
+            "Scores": {
+                "Completeness": 44.3327,
+                "Conciseness": 66.4991,
+                "Faithfulness": 31.0329
+            }
+        },
+        {
+            "ReviewID": "CD005508",
+            "Scores": {
+                "Completeness": 73.4568,
+                "Conciseness": 73.4568,
+                "Faithfulness": 88.1481
+            }
+        },
+        {
+            "ReviewID": "CD007708",
+            "Scores": {
+                "Completeness": 46.7532,
+                "Conciseness": 31.1688,
+                "Faithfulness": 40.5195
+            }
+        },
+        {
+            "ReviewID": "CD006447",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006972",
+            "Scores": {
+                "Completeness": 35.8065,
+                "Conciseness": 35.8065,
+                "Faithfulness": 53.7097
+            }
+        },
+        {
+            "ReviewID": "CD003032",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD002113",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD000123",
+            "Scores": {
+                "Completeness": 51.3043,
+                "Conciseness": 51.3043,
+                "Faithfulness": 61.5652
+            }
+        },
+        {
+            "ReviewID": "CD006963",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD004181",
+            "Scores": {
+                "Completeness": 64.9293,
+                "Conciseness": 43.2862,
+                "Faithfulness": 64.9293
+            }
+        },
+        {
+            "ReviewID": "CD003005",
+            "Scores": {
+                "Completeness": 31.5647,
+                "Conciseness": 31.5647,
+                "Faithfulness": 37.8777
+            }
+        },
+        {
+            "ReviewID": "CD003794",
+            "Scores": {
+                "Completeness": 57.1795,
+                "Conciseness": 15.2479,
+                "Faithfulness": 41.9316
+            }
+        },
+        {
+            "ReviewID": "CD008890",
+            "Scores": {
+                "Completeness": 13.5989,
+                "Conciseness": 20.3984,
+                "Faithfulness": 20.3984
+            }
+        },
+        {
+            "ReviewID": "CD001297",
+            "Scores": {
+                "Completeness": 43.3417,
+                "Conciseness": 43.3417,
+                "Faithfulness": 43.3417
+            }
+        },
+        {
+            "ReviewID": "CD001539",
+            "Scores": {
+                "Completeness": 58.9286,
+                "Conciseness": 39.2857,
+                "Faithfulness": 70.7143
+            }
+        },
+        {
+            "ReviewID": "CD003219",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD003385",
+            "Scores": {
+                "Completeness": 32.9365,
+                "Conciseness": 32.9365,
+                "Faithfulness": 32.9365
+            }
+        },
+        {
+            "ReviewID": "CD001439",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD008112",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD006197",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD002068",
+            "Scores": {
+                "Completeness": 57.334,
+                "Conciseness": 38.2227,
+                "Faithfulness": 61.1563
+            }
+        },
+        {
+            "ReviewID": "CD004115",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD007294",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 35
+            }
+        },
+        {
+            "ReviewID": "CD005190",
+            "Scores": {
+                "Completeness": 14.1832,
+                "Conciseness": 14.1832,
+                "Faithfulness": 17.0198
+            }
+        },
+        {
+            "ReviewID": "CD005137",
+            "Scores": {
+                "Completeness": 23.3916,
+                "Conciseness": 23.3916,
+                "Faithfulness": 23.3916
+            }
+        },
+        {
+            "ReviewID": "CD002271",
+            "Scores": {
+                "Completeness": 32.2513,
+                "Conciseness": 21.5008,
+                "Faithfulness": 32.2513
+            }
+        },
+        {
+            "ReviewID": "CD005365",
+            "Scores": {
+                "Completeness": 33.0745,
+                "Conciseness": 22.0497,
+                "Faithfulness": 35.2795
+            }
+        },
+        {
+            "ReviewID": "CD003275",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD008203",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD007191",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003893",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001024",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD008241",
+            "Scores": {
+                "Completeness": 26.2203,
+                "Conciseness": 17.4802,
+                "Faithfulness": 15.7322
+            }
+        },
+        {
+            "ReviewID": "CD006378",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD002214",
+            "Scores": {
+                "Completeness": 47.4398,
+                "Conciseness": 47.4398,
+                "Faithfulness": 47.4398
+            }
+        },
+        {
+            "ReviewID": "CD004136",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006728",
+            "Scores": {
+                "Completeness": 47.8421,
+                "Conciseness": 47.8421,
+                "Faithfulness": 28.7053
+            }
+        },
+        {
+            "ReviewID": "CD001984",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD000525",
+            "Scores": {
+                "Completeness": 30.6396,
+                "Conciseness": 20.4264,
+                "Faithfulness": 30.6396
+            }
+        },
+        {
+            "ReviewID": "CD000436",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD004829",
+            "Scores": {
+                "Completeness": 41.394,
+                "Conciseness": 27.596,
+                "Faithfulness": 44.1536
+            }
+        },
+        {
+            "ReviewID": "CD006866",
+            "Scores": {
+                "Completeness": 53.5714,
+                "Conciseness": 32.1429,
+                "Faithfulness": 53.5714
+            }
+        },
+        {
+            "ReviewID": "CD006667",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006107",
+            "Scores": {
+                "Completeness": 60.4972,
+                "Conciseness": 44.3646,
+                "Faithfulness": 52.4309
+            }
+        },
+        {
+            "ReviewID": "CD009274",
+            "Scores": {
+                "Completeness": 45.709,
+                "Conciseness": 45.709,
+                "Faithfulness": 54.8507
+            }
+        },
+        {
+            "ReviewID": "CD004842",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD005539",
+            "Scores": {
+                "Completeness": 61.2132,
+                "Conciseness": 61.2132,
+                "Faithfulness": 73.4559
+            }
+        },
+        {
+            "ReviewID": "CD001939",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006883",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003913",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 55
+            }
+        },
+        {
+            "ReviewID": "CD004572",
+            "Scores": {
+                "Completeness": 56.0213,
+                "Conciseness": 56.0213,
+                "Faithfulness": 67.2256
+            }
+        },
+        {
+            "ReviewID": "CD007566",
+            "Scores": {
+                "Completeness": 49.0202,
+                "Conciseness": 32.6802,
+                "Faithfulness": 42.4842
+            }
+        },
+        {
+            "ReviewID": "CD007617",
+            "Scores": {
+                "Completeness": 48.0065,
+                "Conciseness": 32.0043,
+                "Faithfulness": 57.6078
+            }
+        },
+        {
+            "ReviewID": "CD008586",
+            "Scores": {
+                "Completeness": 49.5074,
+                "Conciseness": 49.5074,
+                "Faithfulness": 59.4089
+            }
+        },
+        {
+            "ReviewID": "CD006853",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD007024",
+            "Scores": {
+                "Completeness": 43.892,
+                "Conciseness": 43.892,
+                "Faithfulness": 52.6705
+            }
+        },
+        {
+            "ReviewID": "CD007579",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD001340",
+            "Scores": {
+                "Completeness": 35.9833,
+                "Conciseness": 53.9749,
+                "Faithfulness": 64.7699
+            }
+        },
+        {
+            "ReviewID": "CD002982",
+            "Scores": {
+                "Completeness": 56.6563,
+                "Conciseness": 56.6563,
+                "Faithfulness": 56.6563
+            }
+        },
+        {
+            "ReviewID": "CD003123",
+            "Scores": {
+                "Completeness": 63.7218,
+                "Conciseness": 42.4812,
+                "Faithfulness": 55.2256
+            }
+        },
+        {
+            "ReviewID": "CD001490",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD006133",
+            "Scores": {
+                "Completeness": 24.2958,
+                "Conciseness": 24.2958,
+                "Faithfulness": 24.2958
+            }
+        },
+        {
+            "ReviewID": "CD005083",
+            "Scores": {
+                "Completeness": 43.1818,
+                "Conciseness": 43.1818,
+                "Faithfulness": 46.0606
+            }
+        },
+        {
+            "ReviewID": "CD005262",
+            "Scores": {
+                "Completeness": 36.6183,
+                "Conciseness": 36.6183,
+                "Faithfulness": 31.7358
+            }
+        },
+        {
+            "ReviewID": "CD001900",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 50
+            }
+        },
+        {
+            "ReviewID": "CD004668",
+            "Scores": {
+                "Completeness": 45.4639,
+                "Conciseness": 45.4639,
+                "Faithfulness": 54.5567
+            }
+        },
+        {
+            "ReviewID": "CD004376",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD005181",
+            "Scores": {
+                "Completeness": 28.7298,
+                "Conciseness": 19.1532,
+                "Faithfulness": 28.7298
+            }
+        },
+        {
+            "ReviewID": "CD008391",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006122",
+            "Scores": {
+                "Completeness": 40.6192,
+                "Conciseness": 27.0795,
+                "Faithfulness": 43.3272
+            }
+        },
+        {
+            "ReviewID": "CD000143",
+            "Scores": {
+                "Completeness": 44.2667,
+                "Conciseness": 66.4,
+                "Faithfulness": 66.4
+            }
+        },
+        {
+            "ReviewID": "CD004481",
+            "Scores": {
+                "Completeness": 66.5323,
+                "Conciseness": 66.5323,
+                "Faithfulness": 79.8387
+            }
+        },
+        {
+            "ReviewID": "CD005237",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006945",
+            "Scores": {
+                "Completeness": 56.1966,
+                "Conciseness": 56.1966,
+                "Faithfulness": 67.4359
+            }
+        },
+        {
+            "ReviewID": "CD007610",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 60
+            }
+        },
+        {
+            "ReviewID": "CD007712",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003264",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004214",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD004185",
+            "Scores": {
+                "Completeness": 18.8742,
+                "Conciseness": 18.8742,
+                "Faithfulness": 18.8742
+            }
+        },
+        {
+            "ReviewID": "CD004381",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003026",
+            "Scores": {
+                "Completeness": 13.2007,
+                "Conciseness": 15.8409,
+                "Faithfulness": 34.3219
+            }
+        },
+        {
+            "ReviewID": "CD009153",
+            "Scores": {
+                "Completeness": 35.6557,
+                "Conciseness": 23.7705,
+                "Faithfulness": 42.7869
+            }
+        },
+        {
+            "ReviewID": "CD000369",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD005562",
+            "Scores": {
+                "Completeness": 67.1901,
+                "Conciseness": 44.7934,
+                "Faithfulness": 71.6694
+            }
+        },
+        {
+            "ReviewID": "CD001168",
+            "Scores": {
+                "Completeness": 41.8323,
+                "Conciseness": 27.8882,
+                "Faithfulness": 33.4658
+            }
+        },
+        {
+            "ReviewID": "CD007718",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003812",
+            "Scores": {
+                "Completeness": 68.7273,
+                "Conciseness": 68.7273,
+                "Faithfulness": 82.4727
+            }
+        },
+        {
+            "ReviewID": "CD008493",
+            "Scores": {
+                "Completeness": 50.6208,
+                "Conciseness": 33.7472,
+                "Faithfulness": 50.6208
+            }
+        },
+        {
+            "ReviewID": "CD006734",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD005950",
+            "Scores": {
+                "Completeness": 34.0805,
+                "Conciseness": 34.0805,
+                "Faithfulness": 34.0805
+            }
+        },
+        {
+            "ReviewID": "CD003770",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD005609",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004127",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004317",
+            "Scores": {
+                "Completeness": 71.9929,
+                "Conciseness": 47.9953,
+                "Faithfulness": 43.1958
+            }
+        },
+        {
+            "ReviewID": "CD005542",
+            "Scores": {
+                "Completeness": 47.7798,
+                "Conciseness": 47.7798,
+                "Faithfulness": 43.0018
+            }
+        },
+        {
+            "ReviewID": "CD001418",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD003038",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 45,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD006028",
+            "Scores": {
+                "Completeness": 51.5759,
+                "Conciseness": 51.5759,
+                "Faithfulness": 61.8911
+            }
+        },
+        {
+            "ReviewID": "CD004751",
+            "Scores": {
+                "Completeness": 31.0934,
+                "Conciseness": 20.7289,
+                "Faithfulness": 37.3121
+            }
+        },
+        {
+            "ReviewID": "CD004611",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD006161",
+            "Scores": {
+                "Completeness": 43.4579,
+                "Conciseness": 43.4579,
+                "Faithfulness": 43.4579
+            }
+        },
+        {
+            "ReviewID": "CD001332",
+            "Scores": {
+                "Completeness": 43.3333,
+                "Conciseness": 65.0,
+                "Faithfulness": 56.3333
+            }
+        },
+        {
+            "ReviewID": "CD003764",
+            "Scores": {
+                "Completeness": 36.6748,
+                "Conciseness": 36.6748,
+                "Faithfulness": 44.0098
+            }
+        },
+        {
+            "ReviewID": "CD004878",
+            "Scores": {
+                "Completeness": 46.0598,
+                "Conciseness": 46.0598,
+                "Faithfulness": 46.0598
+            }
+        },
+        {
+            "ReviewID": "CD000255",
+            "Scores": {
+                "Completeness": 43.03,
+                "Conciseness": 43.03,
+                "Faithfulness": 43.03
+            }
+        },
+        {
+            "ReviewID": "CD006101",
+            "Scores": {
+                "Completeness": 29.7959,
+                "Conciseness": 44.6939,
+                "Faithfulness": 38.7347
+            }
+        },
+        {
+            "ReviewID": "CD004217",
+            "Scores": {
+                "Completeness": 50.0762,
+                "Conciseness": 50.0762,
+                "Faithfulness": 50.0762
+            }
+        },
+        {
+            "ReviewID": "CD001069",
+            "Scores": {
+                "Completeness": 24.6207,
+                "Conciseness": 24.6207,
+                "Faithfulness": 29.5448
+            }
+        },
+        {
+            "ReviewID": "CD003042",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD003659",
+            "Scores": {
+                "Completeness": 65.1074,
+                "Conciseness": 43.4049,
+                "Faithfulness": 78.1288
+            }
+        },
+        {
+            "ReviewID": "CD005009",
+            "Scores": {
+                "Completeness": 66.9643,
+                "Conciseness": 49.1071,
+                "Faithfulness": 80.3571
+            }
+        },
+        {
+            "ReviewID": "CD002217",
+            "Scores": {
+                "Completeness": 65.3374,
+                "Conciseness": 43.5583,
+                "Faithfulness": 78.4049
+            }
+        },
+        {
+            "ReviewID": "CD003838",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD004998",
+            "Scores": {
+                "Completeness": 58.3981,
+                "Conciseness": 38.932,
+                "Faithfulness": 50.6117
+            }
+        },
+        {
+            "ReviewID": "CD001112",
+            "Scores": {
+                "Completeness": 37.4126,
+                "Conciseness": 37.4126,
+                "Faithfulness": 37.4126
+            }
+        },
+        {
+            "ReviewID": "CD008454",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008424",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 0,
+                "Faithfulness": 70
+            }
+        },
+        {
+            "ReviewID": "CD008216",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD000491",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD004128",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD000074",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003543",
+            "Scores": {
+                "Completeness": 59.9026,
+                "Conciseness": 39.9351,
+                "Faithfulness": 71.8831
+            }
+        },
+        {
+            "ReviewID": "CD005208",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD007979",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 0,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD007289",
+            "Scores": {
+                "Completeness": 45.2899,
+                "Conciseness": 45.2899,
+                "Faithfulness": 54.3478
+            }
+        },
+        {
+            "ReviewID": "CD002828",
+            "Scores": {
+                "Completeness": 64.2593,
+                "Conciseness": 64.2593,
+                "Faithfulness": 38.5556
+            }
+        },
+        {
+            "ReviewID": "CD002231",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD009379",
+            "Scores": {
+                "Completeness": 53.7611,
+                "Conciseness": 35.8407,
+                "Faithfulness": 53.7611
+            }
+        },
+        {
+            "ReviewID": "CD007428",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD000259",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003541",
+            "Scores": {
+                "Completeness": 39.1342,
+                "Conciseness": 26.0894,
+                "Faithfulness": 33.9163
+            }
+        },
+        {
+            "ReviewID": "CD002277",
+            "Scores": {
+                "Completeness": 34.2262,
+                "Conciseness": 34.2262,
+                "Faithfulness": 41.0714
+            }
+        },
+        {
+            "ReviewID": "CD002781",
+            "Scores": {
+                "Completeness": 59.8901,
+                "Conciseness": 59.8901,
+                "Faithfulness": 71.8681
+            }
+        },
+        {
+            "ReviewID": "CD006616",
+            "Scores": {
+                "Completeness": 33.5217,
+                "Conciseness": 33.5217,
+                "Faithfulness": 33.5217
+            }
+        },
+        {
+            "ReviewID": "CD001943",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003243",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 45
+            }
+        },
+        {
+            "ReviewID": "CD000432",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD006655",
+            "Scores": {
+                "Completeness": 43.0743,
+                "Conciseness": 43.0743,
+                "Faithfulness": 51.6892
+            }
+        },
+        {
+            "ReviewID": "CD002815",
+            "Scores": {
+                "Completeness": 19.1547,
+                "Conciseness": 19.1547,
+                "Faithfulness": 24.9012
+            }
+        },
+        {
+            "ReviewID": "CD009192",
+            "Scores": {
+                "Completeness": 45.0353,
+                "Conciseness": 18.0141,
+                "Faithfulness": 48.0376
+            }
+        },
+        {
+            "ReviewID": "CD006432",
+            "Scores": {
+                "Completeness": 41.4474,
+                "Conciseness": 41.4474,
+                "Faithfulness": 41.4474
+            }
+        },
+        {
+            "ReviewID": "CD002139",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 70
+            }
+        },
+        {
+            "ReviewID": "CD004873",
+            "Scores": {
+                "Completeness": 28.3784,
+                "Conciseness": 42.5676,
+                "Faithfulness": 42.5676
+            }
+        },
+        {
+            "ReviewID": "CD009308",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD007214",
+            "Scores": {
+                "Completeness": 45.4412,
+                "Conciseness": 45.4412,
+                "Faithfulness": 54.5294
+            }
+        },
+        {
+            "ReviewID": "CD007298",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD003954",
+            "Scores": {
+                "Completeness": 18.0624,
+                "Conciseness": 4.8167,
+                "Faithfulness": 18.0624
+            }
+        },
+        {
+            "ReviewID": "CD003916",
+            "Scores": {
+                "Completeness": 24.1474,
+                "Conciseness": 36.2211,
+                "Faithfulness": 31.3916
+            }
+        },
+        {
+            "ReviewID": "CD006943",
+            "Scores": {
+                "Completeness": 67.1642,
+                "Conciseness": 67.1642,
+                "Faithfulness": 53.7313
+            }
+        },
+        {
+            "ReviewID": "CD005046",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD005514",
+            "Scores": {
+                "Completeness": 19.6241,
+                "Conciseness": 19.6241,
+                "Faithfulness": 23.5489
+            }
+        },
+        {
+            "ReviewID": "CD003034",
+            "Scores": {
+                "Completeness": 53.4226,
+                "Conciseness": 53.4226,
+                "Faithfulness": 64.1071
+            }
+        },
+        {
+            "ReviewID": "CD004504",
+            "Scores": {
+                "Completeness": 65.4696,
+                "Conciseness": 65.4696,
+                "Faithfulness": 65.4696
+            }
+        },
+        {
+            "ReviewID": "CD009118",
+            "Scores": {
+                "Completeness": 18.1996,
+                "Conciseness": 18.1996,
+                "Faithfulness": 32.7593
+            }
+        },
+        {
+            "ReviewID": "CD005214",
+            "Scores": {
+                "Completeness": 39.2506,
+                "Conciseness": 39.2506,
+                "Faithfulness": 39.2506
+            }
+        },
+        {
+            "ReviewID": "CD003051",
+            "Scores": {
+                "Completeness": 47.4206,
+                "Conciseness": 47.4206,
+                "Faithfulness": 47.4206
+            }
+        },
+        {
+            "ReviewID": "CD000996",
+            "Scores": {
+                "Completeness": 31.6667,
+                "Conciseness": 31.6667,
+                "Faithfulness": 38.0
+            }
+        },
+        {
+            "ReviewID": "CD004908",
+            "Scores": {
+                "Completeness": 31.4232,
+                "Conciseness": 31.4232,
+                "Faithfulness": 37.7079
+            }
+        },
+        {
+            "ReviewID": "CD000479",
+            "Scores": {
+                "Completeness": 53.1899,
+                "Conciseness": 53.1899,
+                "Faithfulness": 53.1899
+            }
+        },
+        {
+            "ReviewID": "CD004735",
+            "Scores": {
+                "Completeness": 39.6285,
+                "Conciseness": 59.4427,
+                "Faithfulness": 59.4427
+            }
+        },
+        {
+            "ReviewID": "CD001266",
+            "Scores": {
+                "Completeness": 37.0,
+                "Conciseness": 55.5,
+                "Faithfulness": 55.5
+            }
+        },
+        {
+            "ReviewID": "CD004950",
+            "Scores": {
+                "Completeness": 37.5,
+                "Conciseness": 25.0,
+                "Faithfulness": 45.0
+            }
+        },
+        {
+            "ReviewID": "CD006907",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 55,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD004020",
+            "Scores": {
+                "Completeness": 36.0075,
+                "Conciseness": 36.0075,
+                "Faithfulness": 36.0075
+            }
+        },
+        {
+            "ReviewID": "CD008175",
+            "Scores": {
+                "Completeness": 38.3632,
+                "Conciseness": 38.3632,
+                "Faithfulness": 38.3632
+            }
+        },
+        {
+            "ReviewID": "CD006283",
+            "Scores": {
+                "Completeness": 31.9838,
+                "Conciseness": 47.9757,
+                "Faithfulness": 47.9757
+            }
+        },
+        {
+            "ReviewID": "CD006403",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 50,
+                "Faithfulness": 40
+            }
+        },
+        {
+            "ReviewID": "CD000297",
+            "Scores": {
+                "Completeness": 27.1378,
+                "Conciseness": 19.901,
+                "Faithfulness": 32.5653
+            }
+        },
+        {
+            "ReviewID": "CD003881",
+            "Scores": {
+                "Completeness": 25.545,
+                "Conciseness": 17.03,
+                "Faithfulness": 25.545
+            }
+        },
+        {
+            "ReviewID": "CD006771",
+            "Scores": {
+                "Completeness": 59.2391,
+                "Conciseness": 39.4928,
+                "Faithfulness": 59.2391
+            }
+        },
+        {
+            "ReviewID": "CD004198",
+            "Scores": {
+                "Completeness": 31.5508,
+                "Conciseness": 47.3262,
+                "Faithfulness": 47.3262
+            }
+        },
+        {
+            "ReviewID": "CD006717",
+            "Scores": {
+                "Completeness": 34.4799,
+                "Conciseness": 22.9866,
+                "Faithfulness": 29.8826
+            }
+        },
+        {
+            "ReviewID": "CD004170",
+            "Scores": {
+                "Completeness": 15.5588,
+                "Conciseness": 15.5588,
+                "Faithfulness": 18.6706
+            }
+        },
+        {
+            "ReviewID": "CD008510",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 55,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD002230",
+            "Scores": {
+                "Completeness": 40.1351,
+                "Conciseness": 26.7568,
+                "Faithfulness": 34.7838
+            }
+        },
+        {
+            "ReviewID": "CD001351",
+            "Scores": {
+                "Completeness": 33.9953,
+                "Conciseness": 33.9953,
+                "Faithfulness": 40.7944
+            }
+        },
+        {
+            "ReviewID": "CD002122",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 75
+            }
+        },
+        {
+            "ReviewID": "CD000972",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD003420",
+            "Scores": {
+                "Completeness": 35.596,
+                "Conciseness": 35.596,
+                "Faithfulness": 35.596
+            }
+        },
+        {
+            "ReviewID": "CD006002",
+            "Scores": {
+                "Completeness": 56.391,
+                "Conciseness": 37.594,
+                "Faithfulness": 48.8722
+            }
+        },
+        {
+            "ReviewID": "CD001261",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD008765",
+            "Scores": {
+                "Completeness": 51.9981,
+                "Conciseness": 34.6654,
+                "Faithfulness": 55.4647
+            }
+        },
+        {
+            "ReviewID": "CD005331",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD002037",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 30,
+                "Faithfulness": 50
+            }
+        },
+        {
+            "ReviewID": "CD009072",
+            "Scores": {
+                "Completeness": 28.6527,
+                "Conciseness": 19.1018,
+                "Faithfulness": 28.6527
+            }
+        },
+        {
+            "ReviewID": "CD004207",
+            "Scores": {
+                "Completeness": 36.6512,
+                "Conciseness": 36.6512,
+                "Faithfulness": 58.642
+            }
+        },
+        {
+            "ReviewID": "CD003804",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD001831",
+            "Scores": {
+                "Completeness": 44.6296,
+                "Conciseness": 44.6296,
+                "Faithfulness": 44.6296
+            }
+        },
+        {
+            "ReviewID": "CD010257",
+            "Scores": {
+                "Completeness": 34.2561,
+                "Conciseness": 25.1211,
+                "Faithfulness": 36.5398
+            }
+        },
+        {
+            "ReviewID": "CD006251",
+            "Scores": {
+                "Completeness": 38.9726,
+                "Conciseness": 25.9817,
+                "Faithfulness": 33.7763
+            }
+        },
+        {
+            "ReviewID": "CD003266",
+            "Scores": {
+                "Completeness": 56.891,
+                "Conciseness": 37.9274,
+                "Faithfulness": 68.2692
+            }
+        },
+        {
+            "ReviewID": "CD000116",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 20,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD002008",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 50,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003427",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 30,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD008253",
+            "Scores": {
+                "Completeness": 42.1129,
+                "Conciseness": 28.0753,
+                "Faithfulness": 36.4978
+            }
+        },
+        {
+            "ReviewID": "CD000948",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 65
+            }
+        },
+        {
+            "ReviewID": "CD003120",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 75,
+                "Faithfulness": 90
+            }
+        },
+        {
+            "ReviewID": "CD003581",
+            "Scores": {
+                "Completeness": 19.711,
+                "Conciseness": 19.711,
+                "Faithfulness": 19.711
+            }
+        },
+        {
+            "ReviewID": "CD003200",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 45,
+                "Faithfulness": 80
+            }
+        },
+        {
+            "ReviewID": "CD000536",
+            "Scores": {
+                "Completeness": 74.818,
+                "Conciseness": 49.8786,
+                "Faithfulness": 89.7816
+            }
+        },
+        {
+            "ReviewID": "CD000146",
+            "Scores": {
+                "Completeness": 40.1224,
+                "Conciseness": 26.7483,
+                "Faithfulness": 40.1224
+            }
+        },
+        {
+            "ReviewID": "CD007986",
+            "Scores": {
+                "Completeness": 38.0829,
+                "Conciseness": 38.0829,
+                "Faithfulness": 38.0829
+            }
+        },
+        {
+            "ReviewID": "CD001815",
+            "Scores": {
+                "Completeness": 66.5625,
+                "Conciseness": 66.5625,
+                "Faithfulness": 66.5625
+            }
+        },
+        {
+            "ReviewID": "CD004447",
+            "Scores": {
+                "Completeness": 75,
+                "Conciseness": 0,
+                "Faithfulness": 25
+            }
+        },
+        {
+            "ReviewID": "CD003700",
+            "Scores": {
+                "Completeness": 36.0197,
+                "Conciseness": 36.0197,
+                "Faithfulness": 43.2237
+            }
+        },
+        {
+            "ReviewID": "CD003412",
+            "Scores": {
+                "Completeness": 47.4371,
+                "Conciseness": 31.6248,
+                "Faithfulness": 37.9497
+            }
+        },
+        {
+            "ReviewID": "CD004979",
+            "Scores": {
+                "Completeness": 50,
+                "Conciseness": 75,
+                "Faithfulness": 80
+            }
+        }
+    ]
+}

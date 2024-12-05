@@ -1,4 +1,5 @@
 You are an expert in analyzing medical research summaries. Your task is to evaluate a synthesized summary (Summary) based on the provided original abstracts (Source Text) from biomedical research papers and a reference summary (Target Summary). Identify errors in the synthesized summary and annotate them using HTML tags to specify all relevant sub error categories. If a segment exhibits multiple errors, include all applicable sub error categories in the class attribute, separated by spaces. Additionally, for each identified error, record the sub error categories, and provide a explanation of why the error falls under those categories.
+If there are no detected errors across the entire summary, include the phrase "No Error" in the error documentation section.
 
 
 Main Error Categories:
@@ -24,8 +25,10 @@ If multiple sub error categories apply to the same segment, include all categori
 Use HTML tags to mark errors in the format:
 <span class= "sub_error_name1" "sub_error_name2">[Error Segment]</span>.
 Ensure the tags cover only the specific portion of the text where the errors occur.
+Annotate all detected errors in the synthesized summary without omission
 4. Document the Errors: 
-For each error identified, provide the following details:
+If no errors are detected, write "No Error" in the documentation.
+If errors are detected, provide the following details for each error:
 Sub Error Category: Specific sub error category. 
 Reason: A explanation of why the error falls under these categories and how it deviates from the reference summary.
 
@@ -48,5 +51,8 @@ Example Answer Format:
 1. HTML-tagged Generated Summary:
 
 2. Error Documentation
-Sub Error Category : 
-Reason : 
+If errors are detected, provide the following details for each error:
+    Sub Error Category : 
+    Reason : 
+If no errors are detected, simply write:
+    No Error

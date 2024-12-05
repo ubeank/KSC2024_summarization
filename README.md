@@ -69,9 +69,6 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 --------------------------------------------------------------------------------
 ESE 과정
-
-# 병합된 표 예제
-
 <table>
   <tr>
     <th rowspan="2">Summary</th>
@@ -88,12 +85,21 @@ ESE 과정
   </tr>
   <tr>
     <td>led-base-16k</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
+    <td>2.287</td>
+    <td>1.961</td>
+    <td>2.488</td>
+    <td>55.1731</td>
+    <td>53.2734</td>
+    <td>44.4916</td>
+  </tr>
+    <tr>
+    <td>gpt-4o-mini v1</td>
+    <td>3.737</td>
+    <td>3.783</td>
+    <td>3.624</td>
+    <td>62.5646</td>
+    <td>63.6654</td>
+    <td>52.5365</td>
   </tr>
 </table>
 

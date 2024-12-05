@@ -67,4 +67,33 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 || Lack of Focus | 25 | The inclusion of unrelated or secondary information |
 || Excessive detail | 20 | The summary includes too much detail |
 
+--------------------------------------------------------------------------------
+ESE 과정
+
+# 병합된 표 예제
+
+<table>
+  <tr>
+    <th rowspan="2">Summary</th>
+    <th colspan="3">GEval</th>
+    <th colspan="3">ESE_Score</th>
+  </tr>
+  <tr>
+    <th>Faithfulness</th>
+    <th>Completeness</th>
+    <th>Conciseness</th>
+    <th>Faithfulness</th>
+    <th>Completeness</th>
+    <th>Conciseness</th>
+  </tr>
+  <tr>
+    <td>led-base-16k</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+</table>
 

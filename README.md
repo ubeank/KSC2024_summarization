@@ -68,7 +68,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 || Excessive detail | 20 | The summary includes too much detail |
 
 --------------------------------------------------------------------------------
-ESE 과정
+Explainable_Summary_Evaluation
 <table>
   <tr>
     <th rowspan="2">Summary</th>

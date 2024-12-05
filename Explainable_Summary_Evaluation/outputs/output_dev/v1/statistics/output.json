@@ -38,6 +38,28 @@
                 "CD002929"
             ]
         },
+        "sample_errors": {
+            "Completeness": {
+                "Population_Mismatch": 138,
+                "Intervention_Mismatch": 56,
+                "Outcome_Mismatch": 85,
+                "Omission_of_Key_Facts": 345
+            },
+            "Conciseness": {
+                "Redundancy": 160,
+                "Length": 255,
+                "Lack_of_Focus": 161,
+                "Excessive_Detail": 252
+            },
+            "Faithfulness": {
+                "Intrinsic_Information": 134,
+                "Extrinsic_Information": 217,
+                "Ambiguity": 17,
+                "Overgeneralization": 212,
+                "Incorrect_Implication": 270,
+                "Inaccurate_Emphasis": 180
+            }
+        },
         "total_errors": {
             "Completeness": {
                 "Population_Mismatch": 197,

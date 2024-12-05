@@ -39,8 +39,6 @@ def extract_spans(tagged_html):
     spans = re.findall(r"(<span class=([^\s>]+(?: [^\s>]+)*)>(.*?)</span>)", cleaned_html)
     return spans
 
-
-
 def clean_error_documentation(error_doc):
     if not error_doc:
         return ""
@@ -78,10 +76,14 @@ def initialize_total_errors():
         }
     }
 
-def update_total_errors(total_errors, sample_errors):
+def update_total_errors(total_errors, sample_errors, sample_error_count):
     for category in total_errors:
         for error_type in total_errors[category]:
+            # 누적 에러 개수
             total_errors[category][error_type] += sample_errors[category][error_type]
+            # 샘플별 에러 포함 여부 추가 (0 또는 1)
+            if sample_errors[category][error_type] > 0:
+                sample_error_count[category][error_type] += 1
 
 def insert_spans_and_calculate_errors(standard_text, *span_sources):
     spans_to_insert = []
@@ -103,12 +105,9 @@ def insert_spans_and_calculate_errors(standard_text, *span_sources):
 
     return modified_text, error_counts
 
-#샘플 유효성 검사
-#샘플의 main category가 모두 0인 경우, 해당 main category의 error document는 No Error이어야 함
-#위의 조건을 만족하지 않으면 잘못된 샘플로 분류
 def is_sample_valid(sample_errors, error_docs):
     for category, sub_errors in sample_errors.items():
-        if all(count == 0 for count in sub_errors.values()):  # No errors in this category
+        if all(count == 0 for count in sub_errors.values()):
             if clean_error_documentation(error_docs[category]) != "No Error":
                 return False
     return True
@@ -131,6 +130,7 @@ def main():
     target_summaries = load_target_summaries(args.target_summary_file)
 
     total_errors = initialize_total_errors()
+    sample_error_count = initialize_total_errors()
 
     results = []
     removed_samples = []
@@ -149,7 +149,6 @@ def main():
             removed_samples.append(review_id)
             continue
 
-        # Extract Error Documentation and clean
         error_docs = {
             "Completeness": clean_error_documentation(completeness_summary.get("Error Documentation", "")),
             "Conciseness": clean_error_documentation(conciseness_summary.get("Error Documentation", "")),
@@ -191,7 +190,7 @@ def main():
             removed_samples.append(review_id)
             continue
 
-        update_total_errors(total_errors, sample_errors)
+        update_total_errors(total_errors, sample_errors, sample_error_count)
 
         result_entry = {
             "ReviewID": review_id,
@@ -208,6 +207,7 @@ def main():
                 "number": len(removed_samples),
                 "removed_samples list": removed_samples
             },
+            "sample_errors": sample_error_count,
             "total_errors": total_errors
         },
         "samples": results

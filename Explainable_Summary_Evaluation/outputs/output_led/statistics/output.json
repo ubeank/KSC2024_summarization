@@ -20,6 +20,28 @@
                 "CD003341"
             ]
         },
+        "sample_errors": {
+            "Completeness": {
+                "Population_Mismatch": 66,
+                "Intervention_Mismatch": 14,
+                "Outcome_Mismatch": 5,
+                "Omission_of_Key_Facts": 449
+            },
+            "Conciseness": {
+                "Redundancy": 34,
+                "Length": 245,
+                "Lack_of_Focus": 414,
+                "Excessive_Detail": 42
+            },
+            "Faithfulness": {
+                "Intrinsic_Information": 44,
+                "Extrinsic_Information": 264,
+                "Ambiguity": 21,
+                "Overgeneralization": 123,
+                "Incorrect_Implication": 194,
+                "Inaccurate_Emphasis": 67
+            }
+        },
         "total_errors": {
             "Completeness": {
                 "Population_Mismatch": 70,

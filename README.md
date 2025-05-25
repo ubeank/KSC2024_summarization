@@ -1,4 +1,5 @@
 # KSC2024_summarization
+[paper](paper.pdf)
 
 exact-match : ROUGE1, 2, L <br/>
 LM-based : BERTScore(F1) <br/>

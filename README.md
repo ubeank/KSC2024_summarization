@@ -1,5 +1,4 @@
 # KSC2024_summarization
-[2024_KSC_논문 최종본.pdf](https://github.com/user-attachments/files/20431749/2024_KSC_.pdf)
 
 exact-match : ROUGE1, 2, L <br/>
 LM-based : BERTScore(F1) <br/>

@@ -6,7 +6,7 @@ LM-based : BERTScore(F1) <br/>
 LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 
-|exact-match|summarization-version|ROUGE1|ROUGE2|ROUGEL|
+|exact-match|summary-version|ROUGE1|ROUGE2|ROUGEL|
 |--------|-----|-----|-----|-----|
 |led-base-16k (baseline)| - | 0.247 | **0.064** | 0.179 |
 |led-base-16k (lecture summarizer & baseline)| - | 0.241 | 0.062 | 0.176 |
@@ -17,7 +17,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (lecture summarizer & 1-shot)| V2 | 0.222 | 0.031 | 0.128 |
 
 
-|LM-based|summarization-version|BERTScore(F1)|
+|LM-based|summary-version|BERTScore(F1)|
 |--------|-----|-----|
 |led-base-16k (baseline)| - | **0.872** |
 |led-base-16k (lecture summarizer & baseline)| - | 0.870 |

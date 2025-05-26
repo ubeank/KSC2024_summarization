@@ -5,6 +5,8 @@ exact-match : ROUGE1, 2, L <br/>
 LM-based : BERTScore(F1) <br/>
 LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
+```In a randomized trial involving <span class=\"Population_Mismatch\">87 patients</span>, TPD demonstrated superior solute clearances, achieving higher creatinine and urea clearances compared to CEPD.```
+
 
 |exact-match|summary-version|ROUGE1|ROUGE2|ROUGEL|
 |--------|---|-----|-----|-----|

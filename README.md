@@ -55,12 +55,6 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 |gpt-4o-mini (lecture summarizer & 1-shot)| 3.647 | 3.783 | 3.073 |
 
 
-|F1 score|QA data|MCQA data|
-|--------|------|------|
-|CoT| 0.5580 | 0.5667 |
-|PoT| 0.5149 | 0.6338 |
-
-
 |summarization_V2 + GEval_V2|Faithfulness|Completeness|Conciseness|
 |--------|-----|-----|-----|
 |gpt-4o-mini (1-shot)| **3.737** | **3.783** | **3.624** |

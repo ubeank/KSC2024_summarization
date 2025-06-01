@@ -56,7 +56,7 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 
 
 |F1 score|QA data|MCQA data|
-|--------|-----|-----|
+|--------|------|------|
 |CoT| 0.5580 | 0.5667 |
 |PoT| 0.5149 | 0.6338 |
 

@@ -63,12 +63,6 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 --------------------------------------------------------------------------------
 |Main error category|Sub error category|Weight|Description|
 |--------|-----|-----|----------|
-|Faithfulness (100)| Intrinsic Information | 30 | Adding details not found in the original text, changing its meaning |
-|| Extrinsic Information | 25 | Information not present in the source text is added |
-|| Ambiguity | 15 | The summary is unclear or vague, leading to multiple interpretations |
-|| Overgeneralization | 10 | Making broad statements that aren't supported by the original text |
-|| Incorrect Implication | 10 | Suggesting conclusions that the original text does not support |
-|| Inaccurate Emphasis | 10 | Misplacing importance on details that aren't central to the original message |
 |Completeness (100)| Population Mismatch | 25 | When the group studied is different |
 || Intervention Mismatch | 25 | When the treatment or method differs |
 || Outcome Mismatch | 25 | When the results differ |
@@ -77,6 +71,12 @@ LLM-based (GEval) : Faithfulness, Completeness, Conciseness <br/>
 || Length | 25 | The inclusion of excessive or unnecessary details that lengthen the summary |
 || Lack of Focus | 25 | The inclusion of unrelated or secondary information |
 || Excessive detail | 20 | The summary includes too much detail |
+|Faithfulness (100)| Intrinsic Information | 30 | Adding details not found in the original text, changing its meaning |
+|| Extrinsic Information | 25 | Information not present in the source text is added |
+|| Ambiguity | 15 | The summary is unclear or vague, leading to multiple interpretations |
+|| Overgeneralization | 10 | Making broad statements that aren't supported by the original text |
+|| Incorrect Implication | 10 | Suggesting conclusions that the original text does not support |
+|| Inaccurate Emphasis | 10 | Misplacing importance on details that aren't central to the original message |
 
 --------------------------------------------------------------------------------
 Explainable_Summary_Evaluation
